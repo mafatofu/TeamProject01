@@ -15,8 +15,9 @@ public class KomoranFileTest1 {
 		//komoran.setUserDic("user_data/wiki.titles");
 		//String input = "소녀시대와 원더걸스, 카라, AOA 중 원픽은?";
 		
-		String inputFilename = "resources/1111.txt";
-		String outputFilename = "resources/2222.txt";
+		
+		String inputFilename = "resources/input/reviewdata.txt";
+		String outputFilename = "resources/output/result.txt";
 		
 		komoran.analyzeTextFile(inputFilename, outputFilename, 1);
 //		List<Token> tokenList = analyzeResultList.getTokenList();

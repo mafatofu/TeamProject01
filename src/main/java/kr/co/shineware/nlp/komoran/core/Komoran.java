@@ -126,8 +126,11 @@ public class Komoran implements Cloneable {
 //            BufferedWriter bw = new BufferedWriter(new FileWriter(outputFilename));
             List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
             ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
-
+            
+            //lines에 저장된 input정보를 읽어서 
             for (String line : lines) {
+            	//komoranCallable(komoran, input정보) 로 komoran 객체와 input정보 넣기
+            	//생성자를 만드면 넣어짐.
                 KomoranCallable komoranCallable = new KomoranCallable(this, line);
                 komoranResultList.add(executor.submit(komoranCallable));
             }
