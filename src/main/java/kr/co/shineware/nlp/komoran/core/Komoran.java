@@ -150,6 +150,8 @@ public class Komoran implements Cloneable {
 
     }
     
+    
+    //Nouns만 파일 출력
     public void analyzeTextFileNouns(String inputFilename, String outputFilename, int thread) {
 
         try {
@@ -187,7 +189,41 @@ public class Komoran implements Cloneable {
 
     }
     
-    
+    //Morph단위로 띄어쓰기 구분되어 저장.
+    public void analyzeTextFileMorph(String inputFilename, String outputFilename, int thread) {
+
+        try {
+            List<String> lines = FileUtil.load2List(inputFilename);
+
+            BufferedWriter bw = new BufferedWriter(
+                    (new OutputStreamWriter(new FileOutputStream(outputFilename), StandardCharsets.UTF_8)));
+//            BufferedWriter bw = new BufferedWriter(new FileWriter(outputFilename));
+            List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
+            
+            //lines에 저장된 input정보를 읽어서 
+            for (String line : lines) {
+            	//komoranCallable(komoran, input정보) 로 komoran 객체와 input정보 넣기
+            	//생성자를 만드면 넣어짐.
+                KomoranCallable komoranCallable = new KomoranCallable(this, line);
+                komoranResultList.add(executor.submit(komoranCallable));
+                
+            }
+            int cnt = 0;
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
+                cnt++;
+                KomoranResult komoranResult = komoranResultFuture.get();
+                bw.write(cnt + "	" + komoranResult.getPlainMorph());
+                bw.newLine();
+            }
+            bw.close();
+            executor.shutdown();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("분석완료");
+    }
     
 
     /**

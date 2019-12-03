@@ -101,6 +101,22 @@ public class KomoranResult {
         }
         return result.toString().trim();
     }
+    
+    
+    public String getPlainMorph() {
+        StringBuilder result = new StringBuilder();
+        for (LatticeNode latticeNode : resultNodeList) {
+            if (latticeNode.getMorphTag().getTag().equals(SYMBOL.END)) {
+                continue;
+            }
+            if (latticeNode.getTag().equals(SYMBOL.NA)) {
+                result.append(latticeNode.getMorphTag().getMorph()).append(" ");
+            } else {
+                result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append(" ");
+            }
+        }
+        return result.toString().trim();
+    }
 
     /**
      * 형태소 분석 결과를 Token List 형태소 반환합니다. </p>

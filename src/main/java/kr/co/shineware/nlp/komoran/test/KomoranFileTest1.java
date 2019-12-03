@@ -12,9 +12,9 @@ public class KomoranFileTest1 {
 		String product = "1.LG전자 울트라PC 15U590-GA56K";
 		
 		String inputFilename = "resources/input/" + product + ".txt";
-		String outputFilename = "resources/output/result_" + product + "Nouns11.txt";
+		String outputFilename = "resources/output/result_" + product + "Morph.txt";
 		
-		//komoran.analyzeTextFile(inputFilename, outputFilename, 1);
-		komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);
+		//komoran.analyzeTextFileMorph(inputFilename, outputFilename, 1);
+		//komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);
 	}
 }

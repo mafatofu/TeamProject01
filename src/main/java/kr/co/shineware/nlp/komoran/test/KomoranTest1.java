@@ -43,7 +43,6 @@ public class KomoranTest1 {
 			System.out.println(token.getMorph()+"/"+token.getPos()+"("+token.getBeginIndex()+","+token.getEndIndex()+")");
 			System.out.println();
 		}
-		//print nouns
 		System.out.println("==========print 'getNouns()'==========");
 		System.out.println(analyzeResultList.getNouns());
 		System.out.println();
