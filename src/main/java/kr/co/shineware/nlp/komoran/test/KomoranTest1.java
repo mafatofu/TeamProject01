@@ -23,15 +23,16 @@ import kr.co.shineware.nlp.komoran.model.Token;
 
 import java.util.List;
 
-public class KomoranTest {
+public class KomoranTest1 {
 
 	public static void main(String[] args) throws Exception {
 
 		Komoran komoran = new Komoran("models_light");
 		komoran.setFWDic("user_data/fwd.user");
 		komoran.setUserDic("user_data/dic.user");
-
-		String input = "밀리언 달러 베이비랑 바람과 함께 사라지다랑 뭐가 더 재밌었어?";
+		//komoran.setUserDic("user_data/wiki.titles");
+		
+		String input = "소녀시대와 원더걸스, 카라, AOA 중 원픽은?";
 		KomoranResult analyzeResultList = komoran.analyze(input);
 		List<Token> tokenList = analyzeResultList.getTokenList();
 
