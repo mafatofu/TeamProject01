@@ -133,6 +133,7 @@ public class Komoran implements Cloneable {
             	//생성자를 만드면 넣어짐.
                 KomoranCallable komoranCallable = new KomoranCallable(this, line);
                 komoranResultList.add(executor.submit(komoranCallable));
+                
             }
 
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
@@ -148,6 +149,46 @@ public class Komoran implements Cloneable {
         }
 
     }
+    
+    public void analyzeTextFileNouns(String inputFilename, String outputFilename, int thread) {
+
+        try {
+            List<String> lines = FileUtil.load2List(inputFilename);
+
+            BufferedWriter bw = new BufferedWriter(
+                    (new OutputStreamWriter(new FileOutputStream(outputFilename), StandardCharsets.UTF_8)));
+//            BufferedWriter bw = new BufferedWriter(new FileWriter(outputFilename));
+            List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
+            
+            //lines에 저장된 input정보를 읽어서 
+            for (String line : lines) {
+            	//komoranCallable(komoran, input정보) 로 komoran 객체와 input정보 넣기
+            	//생성자를 만드면 넣어짐.
+                KomoranCallable komoranCallable = new KomoranCallable(this, line);
+                komoranResultList.add(executor.submit(komoranCallable));              
+            }
+
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
+                KomoranResult komoranResult = komoranResultFuture.get();
+                for(String komoranR : komoranResult.getNouns()) {
+                	bw.write(komoranR);
+                	bw.newLine();
+                }       
+               
+            }
+            bw.close();
+            executor.shutdown();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("분석완료");
+
+    }
+    
+    
+    
 
     /**
      * 여러 문장을 입력 받아 형태소 분석을 진행합니다.
