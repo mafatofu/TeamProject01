@@ -32,7 +32,7 @@ public class KomoranTest1 {
 		komoran.setUserDic("user_data/dic.user");
 		//komoran.setUserDic("user_data/wiki.titles");
 		
-		String input = "소녀시대와 원더걸스, 카라, AOA 중 원픽은?";
+		String input = "이전 노트북을 오래 사용하다가 빅스마일 기간에 좋은 가격에 구매를 했습니다 윈도가 깔려있는 상품이길 선호했습니다. 제품기본 사양도 가격대비 좋아서 추가로 업그레이드는 하지않았습니다. 주문량이 많아서 생각보다 배송은 오래걸리긴 했지만 사은품도 다 왔고 노트북이 예뻐서 만족합니다ㅎㅎ늦은 배송에 문의글도 올리고 전화도 했지만 친절하게 답변해주셨습니다 무광이라서 더 예쁘지만 때탈까봐 걱정이 되어서 필름은 붙여야 할 듯합니다ㅎㅎ 좋은 상품 잘 구매한 것 같아서 기분이 좋네요. 액정필름을 잘 붙여야 했는데,,,, 기포 왕창 넣어 붙여서,,, 다시 붙여야 할 듯합니다.ㅜㅜ";
 		KomoranResult analyzeResultList = komoran.analyze(input);
 		List<Token> tokenList = analyzeResultList.getTokenList();
 

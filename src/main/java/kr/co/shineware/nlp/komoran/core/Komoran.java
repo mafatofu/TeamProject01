@@ -147,7 +147,7 @@ public class Komoran implements Cloneable {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
+        System.out.println("분석완료");
     }
     
     
@@ -209,11 +209,12 @@ public class Komoran implements Cloneable {
                 komoranResultList.add(executor.submit(komoranCallable));
                 
             }
-            int cnt = 0;
-            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
-                cnt++;
+            //int cnt = 0;
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {   
                 KomoranResult komoranResult = komoranResultFuture.get();
-                bw.write(cnt + "	" + komoranResult.getPlainMorph());
+                //cnt++;
+                //bw.write(cnt + "	" + komoranResult.getPlainMorph());
+                bw.write(komoranResult.getPlainMorph());
                 bw.newLine();
             }
             bw.close();
