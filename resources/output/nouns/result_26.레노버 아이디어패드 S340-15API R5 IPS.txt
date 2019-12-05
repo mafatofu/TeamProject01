@@ -1,0 +1,13 @@
+﻿/SW 레노버 아이디어패드 S340-15API R5 IPS/NNP
+실제/NNG 성능/NNG 도/JX 아주/MAG 좋/VA 구/EC 요다/NNP 만/JX 몇/MM 가지/NNB 단점/NNG 이/JKS 보이/VV ㅂ니다/EF 일반/NNG 십자/NNG 나사/NNG 가/JKS 아니/VCN ᆫ/ETM 별/NNG 형태/NNG 나사/NNG 이/VCP ᆫ데다/EC 통채로/MAG 뒤판/NNG 을/JKO 떼/VV 어/EC 내/VX 아야/EC 램/NNG 이나/JC ssd/SL 를/JKO 달/NNG 수/NNB 있/VX 습니다/EF 그리고/MAJ 이/MM 제품/NNG 드라이버/NNG 시디/NNG 가/JKS 동봉/NNG 되/XSV 지/EC 않/VX 는/ETM 관계/NNG 로/JKB 레노버/NNP 사이트/NNG 들어가/VV 아야/EC 하/VX 는데/EC 들어가/VV 아도/EC 몇/MM 개/NNB 없/VA 어서/EC 3/SN dp/SL 같/VA 은/ETM 도움/NNG 을/JKO 받/VV 아야/EC 하/VV ㅂ니다/EC 성능/NNP 은/JX 발군/NNG 인/NNP 반면/NNG 저/MM 위/NNG 같/VA 은/ETM 점/NNB 은/JX 꼭/MAG 고치/VV 어야/EC 하/VX ᆯ/ETM 듯/NNB 하/VX ㅂ니다/EF 홈페이지/NNG 에/JKB 드라이버/NNG 가/JKS 일부/NNG 없/VA 다는/ETM 게/EC 참/IC ;/SP ;/SP 아/NNP 그리고/MAJ 배송/NNP ../NNP 뽁뽁이/NNP 든/JX 신문지/NNG 이/VCP 라도/EC 넣/VV 어/EC 주/VX 세요/EF ;/SP
+가성비/NNP 는/JX 좋/VA 아요/EC 실제/NNG 성능/NNG 도/JX 아주/MAG 좋/VA 구요/EC
+다만/MAG 몇/MM 가지/NNB 단점/NNG 이/JKS 보이/VV ㅂ니다/EF
+일반/NNG 십자/NNG 나사/NNG 가/JKS 아니/VCN ᆫ/ETM 별/NNG 형태/NNG 나사/NNG 이/VCP ᆫ데다/EC
+통채로/MAG 뒤판/NNG 을/JKO 떼/VV 어/EC 내/VX 아야/EC 램/NNG 이나/JC ssd/SL 를/JKO 달/NNG 수/NNB 있/VV 습니다/EC
+그리고/MAJ 이/MM 제품/NNG
+드라이버/NNG 시디/NNG 가/JKS 동봉/NNG 되/XSV 지/EC 않/VX 는/ETM 관계/NNG 로/JKB
+레노버/NNP 사이트/NNG 들어가/VV 아야/EC 하/VX 는데/EC
+들어가/VV 아도/EC 몇/MM 개/NNB 없/VA 어서/EC 3/SN dp/SL 같/VA 은/ETM 도움/NNG 을/JKO 받/VV 아야/EC 하/VX ㅂ니다/EF
+성능/NNG 은/JX 발군/NNG 인/NNP 반면/NNG 저/MM 위/NNG 같/VA 은/ETM 점/NNB 은/JX 꼭/MAG 고치/VV 어야/EC 하/VX ᆯ/ETM 듯/NNB 하/VX ㅂ니다/EF
+홈페이지/NNG 에/JKB 드라이버/NNG 가/JKS 일부/NNG 없/VA 다는/ETM 게/EC 참/IC ;/SP ;/SP
+아/IC 그리고/MAJ 배송/NNP ../NNP 뽁뽁이/NNP 든/JX 신문지/NNG 이/VCP 라도/EC 넣/VV 어/EC 주/VX 세요/EF ;/SP

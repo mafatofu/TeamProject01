@@ -9,13 +9,13 @@ public class KomoranFileTest1 {
 		Komoran komoran = new Komoran("models_light");
 		komoran.setFWDic("user_data/fwd.user");		komoran.setUserDic("user_data/dic.user");
 		
-		String product = "44.LG전자 그램 2in1 14TD990-GX50K";
+		String product = "26.레노버 아이디어패드 S340-15API R5 IPS";
 		
 		String inputFilename = "resources/input/" + product + ".txt";
 		String outputFilename = "resources/output/nouns/result_" + product + ".txt";
 		
 		//komoran.analyzeTextFileMorph(inputFilename, outputFilename, 1);
-		//komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);
+		komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);
 		komoran.analyzeTextFile(inputFilename, outputFilename, 1);
 	}
 }
