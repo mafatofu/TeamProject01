@@ -1,5 +1,4 @@
 ﻿/SW LG전자 그램 2in1 14TD990-GX50K/NNP
-<<<<<<< HEAD
 저/NP 는/JX 보통/MAG 문서/NNG 작업/NNG 이나/JC 인터넷/NNG 정도/NNG 만/JX 사용/NNG 하/XSV 아서/EC 고/XPN 사양/NNG 은/JX 필요없/VA 지만/EC .../SE 세일/NNG 하/XSV 길래/EC 구매/NNG 하/XSV 아/EC 보/VX 았/EP 어요/EC 배송/NNG 이/JKS 좀/MAG 늦/VA 었/EP 지만/EC 만족/NNG 하/XSV 아요/EF ~/SO
 그램/NNB 15/SN 인치/NNB 부터/JX 쓰/VV 어/EC 오/VX 았/EP 지만/EC 여태/MAG 나오/VV ᆫ/ETM 그램/NNB 시리즈/NNG 중/NNB 최고/NNG 이/VCP ᆫ/ETM 것/NNB 같/VA 아요/EF ./SF 무게/NNG 는/JX 약간/MAG 더/MAG 나가/VV 지만/EC 무리/NNG 가/JKS 되/VV ᆯ/ETM 정도/NNG 는/JX 아니/VCN 네요/EF ./SF 화면/NNG 전환/NNG 도/JX 잘/MAG 되/VV 고/EC 마우스/NNG 도/JX 가볍/VA 고/EC 빠르/VA 고/EC 오/VV 아/EC 콤/NNP 펜/NNP 도/JX 아주/MAG 작동/NNG 이/JKS 잘/MAG 되/VV ㅂ니다/EF ./SF
 추가/NNG 로/JKB 주/VX 시/EP ᆫ/ETM usb/SL 메모리/NNP 도/JX 잘/MAG 쓰/VV ㄹ게요/EF ./SF
@@ -141,7 +140,7 @@ LG/SL 쪽/NNB 에서/JKB 재/XPN 입고/NNG 가/JKS 늦/VA 어/EC 지/VX 어서/
 그냥/MAG 노트북/NNG 으로/JKB 하/VV ᆯ까/EC 태/NNG 블/VV 리/EP ㅅ/EF 으로/JKB 하/VV ᆯ까/EC 고민/NNG 하/XSV 다/EC 태/NNG 블/VV 리/EP ㅅ/EF 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 는/JX 정말/MAG 가볍/VA 고/EC 오/VV 아/EC 콤/NNP 펜/NNP 터치/NNG 감/XSN 도/JX 아주/MAG 좋/VA 습니다/EF ./SF 그냥/MAG 노트북/NNG 으로/JKB 하/VV ᆯ까/EC 태/NNG 블/VV 리/EP ㅅ/EF 으로/JKB 하/VV ᆯ까/EC 고민/NNG 하/XSV 다/EC 태/NNG 블/VV 리/EP ㅅ/EF 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 는/JX 정말/MAG 가볍/VA 고/EC 오/VV 아/EC 콤/NNP 펜/NNP 터치/NNG 감/XSN 도/JX 아주/MAG 좋/VA 습니다/EF ./SF 그냥/MAG 노트북/NNG 으로/JKB 하/VV ᆯ까/EC 태/NNG 블/VV 리/EP ㅅ/EF 으로/JKB 하/VV ᆯ까/EC 고민/NNG 하/XSV 다/EC 태/NNG 블/VV 리/EP ㅅ/EF 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 는/JX 정말/MAG 가볍/VA 고/EC 오/VV 아/EC 콤/NNP 펜/NNP 터치/NNG 감/XSN 도/JX 아주/MAG 좋/VA 습니다/EF ./SF
 제품/NNG 이/JKS 좋/VA 고/EC 직원/NNG 분/XSN 들/XSN 도/JX 친절/NNG 하/XSV 시/EP 어서/EC 구입/NNG 하/XSV 기/ETN 잘/MAG 하/XSV 았/EP 다/EC 생각/NNG 하/XSV ㅂ니다/EF
 알/VV 시/EP 죠/EF 노트북/NNG 은/JX lg/SL 그램/NNB 이/VCP ᆫ/ETM 것/NNB 여기/NP 가/JKS 검색/NNG 한곳/NNG 중/NNB 에/JKB 가장/MAG 싸/VV 고/EC ？/SF 아/NNP ㅆ/EP 습니다/EF 여러/MM 가지/NNB 챙겨주/VV 시/EP 는/ETM 물품/NNG 들/XSN 도/JX 좋/VA 았/EP 고요/EF !/SF !/SF 최저/NNG 가/JKS !/SF !/SF 믿/VV 고/EC 구매/NNG 하/XSV 시/EP 어요/EC
-=======
+﻿/SW LG전자 그램 2in1 14TD990-GX50K/NNP
 저/NP 는/JX 보통/MAG 문서작업/NNP 이나/JC 인터넷/NNG 정도/NNG 만/JX 사용/NNG 하/XSV 아서/EC 고사양/NNP 은/JX 필요없/VA 지만/EF ./SF ../NNP 세일/NNG 하/XSV 길래/EC 구매/NNG 하/XSV 아/EC 보/VX 았/EP 어요/EC 배송/NNP 이/JKS 좀/MAG 늦/VA 었/EP 지만/EC 만족/NNG 하/XSV 아요/EF ~/SO
 그램/NNB 15인치/NNP 부터/JX 쓰/VV 어/EC 오/VX 았/EP 지만/EC 여태/MAG 나오/VV ᆫ/ETM 그램/NNB 시리즈/NNG 중/NNB 최고/NNG 이/VCP ᆫ/ETM 것/NNB 같/VA 아요/EF ./SF 무게/NNG 는/JX 약간/MAG 더/MAG 나가/VV 지만/EC 무리/NNG 가/JKS 되/VV ᆯ/ETM 정도/NNG 는/JX 아니/VCN 네요/EF ./SF 화면/NNG 전환/NNG 도/JX 잘/MAG 되/VV 고/EC 마우스/NNG 도/JX 가볍고/NNP 빠르/VA 고/EC 오/VV 아/EC 콤/NNP 펜/NNP 도/JX 아주/MAG 작동/NNG 이/JKS 잘/MAG 되/VV ㅂ니다/EF ./SF
 추가/NNG 로/JKB 주/VX 시/EP ᆫ/ETM usb/SL 메모리/NNP 도/JX 잘/MAG 쓰/VV ㄹ게요/EF ./SF
@@ -283,4 +282,3 @@ LG/SL 쪽/NNB 에서/JKB 재/XPN 입고/NNG 가/JKS 늦/VA 어/EC 지/VX 어서/
 그냥/MAG 노트북/NNG 으로/JKB 하/VV ᆯ까/EC 태블릿/NNP 으로/JKB 하/VV ᆯ까/EC 고민/NNG 하/XSV 다/EC 태블릿/NNP 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 는/JX 정말/MAG 가볍고/NNP 오/VV 아/EC 콤/NNP 펜/NNP 터치감/NNP 도/JX 아주/MAG 좋/VA 습니다/EF ./SF 그냥/MAG 노트북/NNG 으로/JKB 하/VV ᆯ까/EC 태블릿/NNP 으로/JKB 하/VV ᆯ까/EC 고민/NNG 하/XSV 다/EC 태블릿/NNP 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 는/JX 정말/MAG 가볍고/NNP 오/VV 아/EC 콤/NNP 펜/NNP 터치감/NNP 도/JX 아주/MAG 좋/VA 습니다/EF ./SF 그냥/MAG 노트북/NNG 으로/JKB 하/VV ᆯ까/EC 태블릿/NNP 으로/JKB 하/VV ᆯ까/EC 고민/NNG 하/XSV 다/EC 태블릿/NNP 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 는/JX 정말/MAG 가볍고/NNP 오/VV 아/EC 콤/NNP 펜/NNP 터치감/NNP 도/JX 아주/MAG 좋/VA 습니다/EF ./SF
 제품/NNG 이/JKS 좋/VA 고/EC 직원/NNG 분/XSN 들/XSN 도/JX 친절/NNG 하/XSV 시/EP 어서/EC 구입/NNG 하/XSV 기/ETN 잘/MAG 하/XSV 았/EP 다/EC 생각/NNG 하/XSV ㅂ니다/EF
 알/VV 시/EP 죠/EF 노트북/NNG 은/JX lg/SL 그램/NNB 이/VCP ᆫ/ETM 것/NNB 여기/NP 가/JKS 검색/NNG 한곳/NNG 중/NNB 에/JKB 가장/MAG 싸/VV 고/EC ？/SF 아/NNP ㅆ/EP 습니다/EF 여러/MM 가지/NNB 챙겨주/VV 시/EP 는/ETM 물품/NNG 들/XSN 도/JX 좋/VA 았/EP 고요/EF !/SF !/SF 최저가/NNP !/SF !/SF 믿/VV 고/EC 구매/NNG 하/XSV 시/EP 어요/EC
->>>>>>> branch 'master' of https://github.com/mafatofu/TeamProject01.git
