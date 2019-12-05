@@ -189,6 +189,47 @@ public class Komoran implements Cloneable {
 
     }
     
+    
+    //Tag별 파일 출력
+    public void analyzeTextFileTags(String inputFilename, String outputFilename, int thread, String... str) {
+
+        try {
+            List<String> lines = FileUtil.load2List(inputFilename);
+
+            BufferedWriter bw = new BufferedWriter(
+                    (new OutputStreamWriter(new FileOutputStream(outputFilename), StandardCharsets.UTF_8)));
+//            BufferedWriter bw = new BufferedWriter(new FileWriter(outputFilename));
+            List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
+            
+            //lines에 저장된 input정보를 읽어서 
+            for (String line : lines) {
+            	//komoranCallable(komoran, input정보) 로 komoran 객체와 input정보 넣기
+            	//생성자를 만드면 넣어짐.
+                KomoranCallable komoranCallable = new KomoranCallable(this, line);
+                komoranResultList.add(executor.submit(komoranCallable));              
+            }
+
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
+                KomoranResult komoranResult = komoranResultFuture.get();
+                for(String komoranR : komoranResult.getMorphesByTags(Arrays.asList(str))) {
+                	bw.write(komoranR);
+                	bw.newLine();
+                }       
+               
+            }
+            bw.close();
+            executor.shutdown();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("분석완료");
+
+    }
+    
+    
+    
     //Morph단위로 띄어쓰기 구분되어 저장.
     public void analyzeTextFileMorph(String inputFilename, String outputFilename, int thread) {
 
@@ -225,7 +266,6 @@ public class Komoran implements Cloneable {
         }
         System.out.println("분석완료");
     }
-    
 
     /**
      * 여러 문장을 입력 받아 형태소 분석을 진행합니다.
