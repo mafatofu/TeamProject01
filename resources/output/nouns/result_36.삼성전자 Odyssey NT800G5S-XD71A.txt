@@ -1,165 +1,1604 @@
-﻿/SW 삼성전자 Odyssey NT800G5S-XD71A/NNP
-큰아이/NNG 가/JKS 좋아하/VV 네요/EC
-고성능/NNP 프로그램/NNG 을/JKO 많이/MAG 돌리/VV 는데/EC ../NNP 나름/NNB 만족/NNG 하/XSV ㅂ니다/EF ./SF 무게/NNG 가/JKS 좀/MAG 있/VV 어/EC 들/VV 고/EC 다니/VV 기가/NNP 좀/MAG 힘들/VA 듯/EF ./SF 나름/NNB 만족/NNG 하/XSV ㅂ니다/EF ./SF 번창/NNG 하/XSV 시/EP 어요/EC
-우리/NP 아들/NNG 이/JKS 받/VV 고/EC 너무/MAG 좋/VA 다고/EC 하/VX 네요/EC
-해/NNG 와/JKB 에서/JKB 쓰/VV 어야/EC 하/VX 아서/EC 빨리/MAG 받/VV 고/EC 싶/VX 었/EP 는데/EC 생각/NNG 보다/JKB 빨리/MAG 오/VV 아서/EC 마음/NNG 이/JKS 놓이/VV 었/EP 습니다/EF ./SF 기능/NNG 은/JX 아직/MAG 사양/NNG 높/VA 은/ETM 게임/NNG 을/JKO 하/VV 지/EC 않/VX 아서/EC 정확/XR 하/XSA ᆫ/ETM 확인/NNG 을/JKO 못하/VX 았/EP 습니다만/EC 부팅속도/NNP 나/JC 설치/NNG 속도/NNG 가/JKS 빠르/VA 아서/EC 감탄/NNG 하/XSV 았/EP 습니다/EF ./SF
-상품/NNG 좋/VA 고/EC 빠르/VA 게/EC 배송/NNP 이/VCP 구만요/EF 굿/NNG 이/VCP 어라/EF ~/SO ~/SO
-우와/IC 정말/MAG 대박/NNG 이/VCP ㅂ니다/EC ^^/NNP 이렇게/MAG 고성능/NNP 에/JKB 견고/XR 하/XSA ᆫ/ETM 노트북/NNG 이/JKS 이/MM 가격/NNG 에/JKB 구입/NNG 하/XSV ᆯ/ETM 수/NNB 있/VX 다니요/EF ~/SO 정말/MAG 만족/NNG 하/XSV ㅂ니다/EF @/SW 주변/NNG 지인/NNP 들/XSN 에게/JKB 추천/NNG 하/XSV 겠/EP 습니다/EC ^^/NNP
-조카/NNG 대학/NNG 입학/NNG 선물/NNG 로/JKB 구입/NNG 하/XSV 게/EC 되/VV 었/EP 는데/EC 속도/NNG 빠르/VA 고/EC 너무/MAG 좋/VA 네요/EF ./SF 학과/NNG 가/JKS 디자인/NNG 계열/NNG 이/VCP 라/EC 램/NNG 16/SN 기가/NNP 교체/NNG ,/SP ssd/SL 500/SN 교체/NNG ,/SP 하드/NNG 1/SN tb/SL 추가/NNG 하/VV 았/EP 는데/EC 구입비/NNG 용/XSN 은/JX 좀/MAG 늘어나/VV 아도/EC 한번/MAG 살/NNG 때/NNG 확실히/MAG 갖추/VV 어/EC 놓/VX 으면/EC 오래/MAG 쓰/VV ᆯ/ETM 수/NNB 있/VV 을/ETM 것/NNB 같/VA 아요/EF ./SF 윈도우/NNP 도/JX 금방/MAG 깔리/VV 고/EC 부팅/NNG 도/JX 빠르/VA 고/EC 모든/MM 게/EC 만족스럽/VA 네요/EF ./SF 단/NNG ,/SP 무게/NNG 가/JKS 좀/MAG 묵직/XR 하/XSA 아서/EC 휴대/NNG 하/XSV ᆯ시/EC 백팩/NNP 에/JKB 너/NP ㅎ/NNP 으/NNG 서/JKB 이동/NNG 하/XSV 면/EC 좋/VA 을/ETM 것/NNB 같/VA 습니다/EF ./SF
-너무/MAG 좋/VA 아요/EC 삼성/NNP 제품/NNG 이/VCP ᆫ데/EC 도/JX 너무/MAG 저렴/XR 하/XSA 고/EC 좋/VA 네요/EC
-성능/NNG 자체/NNG 는/JX 추천/NNG 하/XSV ㅂ니다/EF 근데/MAJ 하필/MAG 내/NP 가/JKS 구입/NNG 하/XSV 고/EC 나/VX 아서/EC 할인이벤트/NNP 하/XSA 는/ETM 것/NNB 이/VCP 니/EF ./SF ../NNP ㅠㅠ/NNP 그것/NP 아쉽/VA ᆫ/ETM 것/NNB 말/VX 고/EC 는/JX 나머지/NNG ᆫ/JX 완전/NNG 굿/NNG 굿/NNG 하드/NNG 랑/JKB 램/NNG 추가/NNG 하/VV 았/EP 어요/EF 스/IC 스/VV 디/EC 는/JX 256/SN 만/NR 쓰/VV 어도/EC 충분/XR 하/XSA ᆫ/ETM 듯/NNB 스/NNG 스/VV 디/NNP 256/SN 만/NR 하/VV 시/EP ᆯ/ETM 분/NNB 은/JX 하드/NNG 필히/MAG 추가/NNG 하/VV 시/EP 어야/EC 쓰/VV 기/ETN 에/JKB 편하/VA 아요/EC
-첫/MM 노트북/NNG 을/JKO 사/VV 면서/EC 이래저래/MAG 고민/NNG 을/JKO 많이/MAG 하/VV 며/EC 고심/NNG 끝/NNG 에/JKB 삼성/NNP 노트북/NNG 을/JKO 주문/NNG 배송/NNP 하/VV 았/EP 는데/EC 역시/MAG 네임/NNG 드/NNP 노트북/NNG 이/VCP 네요/EC 백라이트/NNG 의/JKG 다지/VV 인/NNP 과/JC 블랙/NNG 감성/NNG 이/JKS 맘/NNG 에/JKB 들/VV 었/EP 고/EC 무겁/VA 기/ETN ᆫ/JX 하/VV 지만/EC 매우/MAG 좋/VA 은/ETM 성능/NNG 을/JKO 자랑/NNG 하/XSV 는/ETM 것/NNB 같/VA 아/EC 좋/VA 았/EP 네요/EF 아쉽/VA ᆫ게/EC 있/VV 다면/EC 가성비/NNP 면/NNG 이/VCP 네요/EC ㅠㅠ/NNP 그래도/MAJ 나름/NNB 고심/NNG 끝/NNG 에/JKB 산/NNG 털/VV 라/EC 매우/MAG 좋/VA 게/EC 사용/NNG 하/VV 고/EC 있/VX 습니다/EF ./SF
-MSI/SL 쓰/VV 다가/EC AS/SL 때문/NNB 에/JKB 삼성/NNP 오/VV 았/EP 는데/EC 잘/MAG 한/MM 것/NNB 같/VA 네요/EF ./SF 뭐/NP 리뷰/NNG 나/JC 커뮤니티/NNG 에서/JKB 발열/NNG 이나/JC 가격/NNG 비싸/VA 다/EC 말/NNG 들/XSN 많/VA 아서/EC 걱정/NNG 하/XSV 았/EP 는데/EC 가격/NNG 은/JX 쿠폰/NNG 쓰/VV 고/EC 프리도스/NNP 이/VCP 라서/EC 일반/NNG 출고/NNG 가/JKS 보다/MAG 싸/VV 아서/EC AS/SL 생각/NNG 하/XSV 면/EC 괜찮/VA 은/ETM 가격/NNG 이/VCP ㅂ니다/EF ./SF 다/NNG 들/XSN 출고/NNG 가/JKS 기준/NNG 으로/JKB 생각/NNG 하/XSV 아서/EC 그렇/VA ᆫ가/EC 보/VX 아요/EF ./SF 발열/NNG 은/JX 나름/NNB 고사양 게임/NNP 을/JKO 높/VA 음/ETN 으로/JKB 돌리/VV 어도/EC 손가락/NNG 이/JKS 뜨겁/VA 거나/EC 하/VV 지/EC 않/VX 네요/EF ./SF 950/SN M/SL 에서/JKB 오/VV 아서/EC 그렇/VA ᆫ가/EC 체/NNB 감도/NNP 있/VV 고/EC SSD/NNP 도/JX 빠르/VA 고/EC 만족스럽/VA 습니다/EF ./SF
-굿/NNG 굿/NNG 삼성/NNP 노트북/NNG 처음/NNG 사/VV 아/EC 보/VX 았/EP 는데/EC 마/NNP 감도/NNP 깔끔/XR 하/XSA 고/EC 좋/VA 네요/EC
-비슷/XR 하/XSA ᆫ/ETM 사양/NNG 의/JKG 제품/NNG 이/JKS 많/VA 아서/EC 조금/MAG 고민/NNG 을/JKO 하/VV 았/EP 습니다/EF ./SF 저/NP 는/JX 게이밍/NA 노트북/NNG 구매/NNG 목적/NNG 은/JX 게임/NNG 이/JKS 아니/VCN 라/EC 그래픽/NNG 작업/NNG 을/JKO 하/VV 기/ETN 위하/VV 아/EC 구매/NNG 를/JKO 결정/NNG 하/XSV 았/EP 고/EC 또/MAG 삼성전자/NNP 노트북/NNG 은/JX A/SL //SP S/SL 를/JKO 편하/VA 게/EC 받/VV 을/ETM 수/NNB 있/VV 어서/EC 좋/VA 습니다/EF ./SF 작업/NNG 을/JKO 진행/NNG 하/XSV 아/EC 보/VX 니/EC 성능/NNG 이/JKS 너무/MAG 좋/VA 아요/EF ./SF ../NNP
-삼성/NNP 노트북/NNG 든든/XR 하/XSA 고/EC 좋아요/IC ~/SO ~/SO 사양/NNG 이/JKS 중요/XR 하/XSA ᆫ/ETM 것/NNB 다/MAG 알/VV 시/EP 죠/EF 게임/NNG 이/VCP 든/EC 영상/NNG 이/VCP 든/EC 강추/NNG 하/VX ㅂ니다/EF ~/SO ~/SO ^^/NNP
-뭐/NP 를/JKO 살/VV ᆯ까/EC 고민/NNG 하/XSV 다가/EC ㅎ/NNP ㅜ/NNP 기가/NNP 좋/VA 아서/EC 이것/NP 구매/NNG 하/XSV ㅂ니다/EF ./SF 배송/NNP 도/JX 빠르/VA 고/EC 무엇/NP 보다/JKB 정말/MAG 가격/NNG 이/JKS 저렴/XR 하/XSA ᆫ/ETM 것/NNB 같/VA 아요/EF ./SF 잘/MAG 쓰/VV 겠/EP 습니다/EF ./SF 빠르/VA ᆫ/ETM 배송/NNP 감사/NNG 하/XSV 아요/EF ./SF
-i7/NNP -/SS 7700/SN HQ/SL //SP GTX/SL 1060/SN 6/SN GB/SL //SP SSD/NNP 256/SN GB/SL //SP HDD/SL 1TB/NNP 총/MM 137/SN 만/NR 원/NNB 정도/NNG 들/VV 었/EP 는데/EC 게이밍/NA 노트북/NNG 으로/JKB 부족/NNG 하/XSV ᄆ/ETN 이/VCP ᆫ/ETM 없/VA 는/ETM 사양/NNG 이/VCP ㅂ니다/EF ./SF 삼성/NNP 노트북/NNG 이/VCP 라/EC AS/SL 받/VV 기/ETN 도/JX 편하/VA ᆯ듯/EC 하/VX 네요/EF ./SF
-저렴/XR 하/XSA ᆫ/ETM 것/NNB 사서/NNG 쓰/VV 다가/EC 틀/VV ᆫ/ETM 맘/NNG 먹고살/VV 어/EC 주/VX 었/EP 는데/EC 좋/VA 대요/EC
-너무/MAG 마음/NNG 에/JKB 드/VV ㅂ니다/EF ./SF 가격/NNG 이/JKS 7/SN 월/NNB 행사/NNG 로/JKB 사/VV 아서/EC 다른/MM 곳/NNG 과/JC 비교/NNG 하/XSV 았/EP 을/ETM 때/NNG 무척/MAG 착하/VA 네요/EF ~/SO 배송/NNP 도/JX 금요일/NNG 에/JKB 출발/NNG 하/XSV ᆫ/ETM 터/NNB 이/VCP 라/EC 토요일/NNG 까지/JX 도착/NNG 못하/VA 면/EC 어쩌/VV 지/EC 걱정/NNG 이/JKS 되/VV 었/EP 는데/EC 아침/NNG 8/SN 시/NNB 도착/NNG ~/SO 대박/NNG 이/VCP 죠/EF ~/SO !/SF !/SF !/SF 전체/NNG 적/XSN 으로/JKB 마음/NNG 에/JKB 들/VV 는데/EC 하나/NR 아쉽/VA ᆫ/ETM 것/NNB 이/VCP ᆫ/ETM 살짝/MAG 무겁/VA 네요/EF ~/SO ^^/NNP ;/SP
-많이/MAG 팔/VV 시/EP 구/EC 번창/NNG 하/XSV 시/EP 어요/EC ^^/NNP
-배송/NNP 은/JX 정말/MAG 빠르/VA 네요/EF ^/SW 노트북/NNG 받/VV 고/EC 밖/NNG 스/NNG 개봉/NNG 시/XSN 설레임/NNG 이란/JX ./SF ../NNP ㅠ/NNP ㅡ/SS ㅠ/NNP 우선/NNG 윈도/NNP 깔/VV 고/EC 살짝/MAG 쓰/VV 어/EC 보/VX ᆫ/ETM 결과/NNG 좋/VA 습니다/EC ../NNP 뮤직비디오/NNG 를/JKO 들/VV 어/EC 보/VX 았/EP 는/ETM 대/NNB 소리/NNG 를/JKO 풀/VV 로/EC 하/VX 았/EP 는대도/EC 좀/MAG 작/VA 은/ETM 편/NNB 이/VCP 에요/EC 그것/NP 빼/VV 곤/EF 뭐/IC ./SF ../NNP 정말/MAG 조/VV 아요/EC ../NNP
-배그/NNP 중/NNB 옵/EP 으로/EC 잘/MAG 하/XSV 고/EC 있/VX 습니다/EF ./SF ~/SO ^^/NNP 물론/MAG 쿨링/NNP 패드/NNG 필수/NNG ~/SO
-아직/MAG 시간/NNG 이/JKS 없/VA 어서/EC 윈도우/NNP 깔/VV 지/EC 못하/VX 았/EP 지만/EC 정말/MAG 빨리/MAG 배송/NNP 되/XSV 었/EP 어요/EF ./SF 포장/NNG 도/JX 안전하게/NNP 오/VV 았/EP 구요/EF ./SF 이렇게/MAG 처음/NNG 사/VV 아/EC 보/VX 는데/EC 기대/NNG 되/XSV ㅂ니다/EC ㅋ/NNP 번창/NNG 하/XSV 세요/EF ./SF
-MSI/SL 노트북/NNP 쓰/VV 다/EC 고장/NNG 이나/JC 서/NNP 삼성/NNP 것/NNB 로/JKB 구입/NNG 하/XSV 았/EP 습니다/EF !/SF 삼성/NNP 은/JX A/SL //SP S/SL 가/JKS 더/MAG 확실/XR 하/XSA 겠/EP 거니/EC 하/VV 는/ETM 기대감/NNG 에/JKB !/SF 무엇/NP 보다/JKB 배송/NNP 이/JKS 무척/MAG 빠르/VA ㅂ니다/EF ./SF 배송/NNP 도/JX 잘/MAG 포장/NNG 되/XSV 어서/EC 오/VV 기/ETN 때문/NNB 에/JKB 걱정/NNG 안/NNG 하/XSV 시/EP 어도/EC 되/VV ᆯ/ETM 것/NNB 같/VA 아요/EF ~/SO 발열/NNG 은/JX 좀/MAG 있/VV 는/ETM 것/NNB 같/VA 은데/EC 으흠/IC 좀더/MAG 사용/NNG 하/XSV 아/EC 보/VV 아야/EC 하/VX 겠/EP 네요/EF 게임/NNG 성능/NNG 은/JX 맘/NNG 에/JKB 드/NNP ㅂ니다/EF !/SF
-약/MM 한/MM 달/NNG 전쯤/NNG 부터/JX 본체/NNG 를/JKO 살/VV ᆯ까/EC 노트북/NNG 을/JKO 살/VV ᆯ까/EC 고민/NNG 하/XSV 아/EC 오/VX 았/EP 는데/EC 결국/MAG 삼성/NNP 노트북/NNG 으로/JKB 결정/NNG ~/SO ^^/NNP 내/NP 가/JKS 보/VV 고/EC 있/VV 던/ETM 사양/NNG 에/JKB 가격/NNG 까지/JX 마음/NNG 에/JKB 들/VV 었/EP 다/EF ./SF 배송/NNP 엄청/MAG 빠르/VA 고/EC 박스/NNG 는/JX 백마/NNG 넌/JX 넘/VV 는/ETM 제품/NNG 에/JKB 비하/VV 아/EC 포장/NNG 은/JX 그럭저럭/MAG ㅋ/NNP 전원/NNG 을/JKO 넣/VV 어/EC 보/VX 니/EC 역/NNG 쉬/VV 나/EC 리눅스/NNG ~/SO 윈도우10/NNP 설치/NNG ㅎ/NNP ㅜ/NNP 배틀/NNG 그라운드/NNG 구동/NNG 중/NNB 옵/EP 질/XSN 에서/JKB 약간/MAG 버벅거리/VV ㅁ/ETN 삼성/NNP 홈피/NNG 들어가/VV 아서/EC 드라이버/NNG 소프트웨어/NNG 업글/NNP 하고/JC 그래픽/NNG 을/JKO 확인/NNG 하/XSV 아/EC 보/VX 니/EC 인텔/NNP 내장/NNG 과/JC 1060/SN 그래픽/NNG 두개/NNG 가/JKS 잡히/VV 어/EC 있/VX 었/EP 음/ETN 평시/NNG 에/JKB 는/JX 인텔/NNP 꺼/NNB ㄹ/JKO 사용/NNG 하/XSV 고/EC 게임/NNG 구/XPN 동시/NNG 1060/SN 을/NNG 사용/NNG 하/XSV ᆫ다/EC 싶/VX 어/EC 패스/NNG ~/SO 배틀/NNP 그라운드/NNG 다시/MAG 구동/NNG ./SF 하/VV 니/EC 끊/VV 김/NNP 이/JKS 현상/NNG 없이/MAG 잘/MAG 되/XSV ᄆ/ETN 1/SN 시간/NNG 정도/NNG 사용/NNG 하/VV 니/EC 노트북/NNG 밑판/NNG 이/JKS 따끈따끈/MAG 하/VV 네요/EC 나무/NNG 로/JKB 바닥/NNG 하/XSV 나/EC 받치/VV 니/EC 열/NNG 이/JKS 내려가/VV 네요/EC 총평/NNG 을/JKO 하/VV 자면/EC 생각/NNG 보다/JKB 성능/NNG 과/JC 가성비/NNP 좋/VA 았/EP 고/EC 배송/NNP 빠르/VA 고/EC 만족/NNG 하/XSV ㅂ니다/EF ./SF 아쉽/VA ᆫ/ETM 점/NNB 은/JX 색상/NNG 의/JKG 다양/NNG 성/XSN 있/VX 었/EP 으면/EC 싶/VX 고/EC 무게/NNG 가/JKS 좀/MAG 무겁/VA 어/EC 들/VV 고/EC 다니/VV 기/ETN 에/JKB 는/JX 부담/NNG 이/JKS ~/SO ^/SW 암/NNG 쪼록/NNG 고장/NNG 없이/MAG 오래/MAG 사용/NNG 하/XSV 았/EP 으면/EC 좋/VA 겠/EP 네요/EF
-비슷/XR 하/XSA ᆫ/ETM 상품/NNG 많/VA 아서/EC 고민/NNG 하/XSV 았/EP 는데/EC 카드/NNG 하/XSV ᆯ/ETM 인/NNP 받/VV 아서/EC 싸게/NNP 잘/MAG 사/VV 았/EP 네요/EF ./SF 배송/NNP 도/JX 빠르/VA 고/EC 삼성/NNP 노트북/NNG 이/NP 이/VCP 라서/EC as/SL 도/JX 잘되겠죠?게이밍노트북/NA 필요/NNG 하/XSV ᆫ/ETM 신분/NNG 강추/NNG 하/XSV ㅂ니다/EF !/SF
-사양/NNG 에/JKB 대하/VV 아/EC 많이/MAG 고민/NNG 하/XSV 고/EC 비교/NNG 하/XSV 고/EC 구매/NNG 하/XSV 았/EP 는데/EC ,/SP 부팅속도/NNP 도/JX 빠르/VA 고/EC ,/SP 외관/NNG 도/JX 깔끔/XR 하/XSA 고/EC ,/SP 제/NP 가/JKS 한/MM 선택/NNG 에/JKB 대하/VV 아/EC full/SL 로/JKB 만족/NNG 하/XSV ㅂ니다/EF ./SF 많이/MAG 팔/VV 시/EP 고/EC 대박/NNG 나/JC 세요/NNP
-다른/MM 브랜드/NNP 랑/JC 비슷/XR 하/XSA ᆫ/ETM 사양/NNG 비교/NNG 하/XSV 아도/EC 가격/NNG 차이/NNG 도/JX 없/VA 고/EC 스펙/NNP 대로/JX 잘/MAG 돌아가/VV 네요/EC
-포장/NNG 도/JX 꼼꼼/XR 하/XSA 고/EC 배송/NNP 도/JX 주문/NNG 다음날/NNG 오/VV 았/EP 습니다/EF ./SF 터치감/NNP 이나/JC 속도/NNG 등/NNB 에서/JKB 매우/MAG 만족/NNG 하/XSV 았/EP 네요/EF ./SF 소음/NNP 도/JX 별로/MAG 없/VA 고/EC ../NNP 이/VCP 다/EC 만/JX 아/NNG 답/NNG 하/XSA 다/EC 크/VA 기가/NNP 허걱/IC !/SF !/SF !/SF !/SF 제/NNP 가/JKS 보/VV ᆫ/ETM 사이즈/NNG 중/NNB 에/JKB 젤/MAG 크/VA 었/EP 네요/EF ./SF 밧데리/NNG 가/JKS 길/VA ᆫ/ETM 편/NNB 이/VCP 라/EC 외부/NNG 에/JKB 들/VV 고/EC 가/VV ᆯ/ETM 일/NNP 은/JX 별로/MAG 없/VA 을/ETM 것/NNB 같/VA 아/EC 다행/NNG 이/VCP 네요/EF ./SF 아무튼/MAG 아주/MAG 만족/NNG 하/XSV 네요/EF ./SF ^^/NNP 추천/NNG 꾹/MAG ./SF
-삼성/NNP 오디세이/NNP ,/SP 좋/VA 아/EC 요/NNP 발열/NNG 이/JKS 걱정/NNG 되/XSV 었/EP 는데/EC ,/SP 보/VV 니까/EC 게임/NNG 중/NNB 85/SN 중/NNB 정/NNP 도/JX 유지/NNG 되/XSV 더라고요/EC 괘/NNG ㄴ/JX 찬/NNP 은거/NNG 같/VA 아요/EF ,/SP 이벤트/NNG 키보드/NNG 부탁/NNG 하/XSV ㅂ니다/EF ./SF
-제품/NNG 에/JKB 이상/NNG 없이/MAG 배송/NNP 잘/MAG 되/XSV 었/EP 습니다/EF ./SF 깔끔/XR 하/XSA ᆫ/ETM 디자인/NNG 에/JKB 빠르/VA ᆫ/ETM 부팅속도/NNP ,/SP 부드럽/VA ᆫ/ETM 영상/NNG 재생/NNG 마음/NNG 에/JKB 드/VV ㅂ니다/EF ./SF 아직/MAG 까지/JX 게임/NNG 은/JX 실행/NNG 안/NNG 시키/XSV 어/EC 보/VX 아서/EC 모르/VV 겠/EP 는데/EC ,/SP 일단/MAG 평소/NNG 시/XSN 에/JKB 는/JX 쿨러/NNG 소리/NNG 없이/MAG 조용/XR 하/XSA 게/EC 잘/MAG 되/VV 네요/EF ./SF 어댑터/NNG 가/JKS 듣/VV 던/ETM 대로/NNB 정말/MAG 크/VA 기/ETN ᆫ/JX 하/VV 지만/EC ,/SP 크/VA ᆫ/ETM 이유/NNG 가/JKS 있/VV 으려니/EC 하/VX ㅂ니다/EF ./SF 전/NNP 에/JKB 쓰/VV 던/ETM 컴퓨터/NNG 가/JKS 너무/MAG 말썽/NNG 이/VCP 어서/EC 이번/NNG 에/JKB 바꾸/VV 엇/EP 는데/EC ,/SP 오래오래/MAG 잘/MAG 돌아가/VV 기/ETN ㄹ/JKO 삼성/NNP 꺼/NNB 이/VCP 라/EC 믿/VV 어/EC 보/VX ㅂ니다/EF ./SF
-성격/NNG 이/JKS 급/NNG 한편/NNG 이/VCP 라/EC 배송/NNP 기다리/VV 는게/EC 엄청/MAG 신경/NNG 쓰이/VV 는데/EC 배송/NNP 이/JKS 하루/NNG 만/JX 에/JKB 오/VV 아서/EC 좋/VA 았/EP 고요/EF ./SF 부팅 속도/NNP 도/JX 빠르/VA 고/EC 게이밍/NA 노트북/NNG 이/VCP 라/EC 무겁/VA ᆯ/ETM 꺼/NNB 이/VCP 라는/ETM 생각/NNG 을/JKO 하/VV 았/EP 지만/EC 생각/NNG 보다/JKB 무겁/VA 지/EC 않/VX 아/EC 좋/VA 습니다/EF ./SF 그리고/MAJ 무광/NNP 블랙/NNG 이/VCP 라/EC 깔끔/XR 하/XSA ᆫ/ETM 느낌/NNG 이/JKS 있/VV 어서/EC 좋/VA 아요/EF ./SF
-아들/NNG 이/JKS 고민/NNG 끝/NNG 에/JKB 삼성/NNP 오디세이/NNP 로/JKB 결정/NNG 하/XSV 아서/EC 주문/NNG 하/XSV 았/EP 어요/EF 매장/NNG 에서/JKB 본/NNP 것/NNB 보다/JKB 더/MAG 좋/VA 아/EC 보이/VV 는데요/EC ㅎㅎ/NNP 마음/NNG 에/JKB 들/VV 는/ETM 것/NNB 로/JKB 잘/MAG 구매/NNG 하/XSV 았/EP 다고/EC 너무/MAG 좋아하/VV 고저/EC 도/JX 마음/NNG 에/JKB 들/VV 네요/EC ^^/NNP 아답터/NNG 도/JX 큼지막/XR 하/XSA 니/EC 든든/XR 하/XSA 어/EC 보이/VV 네요/EF ~/SO ~/SO
-배송/NNP 엄청/MAG 빠르/VA 고/EC 후기/NNG 보고/JKB 고민/NNG 없이/MAG 지르/VV 었/EP 습니다/EF ./SF
-지금/MAG 막/MAG 배송/NNP 받/VV 았/EP 습니다/EF 좋아요/IC 휴대용/NNP 으로/JKB 산/NNG 것/NNB 이/VCP ᆫ/ETM 아니/VCN 라/EC 사이즈/NNG 크/VA ᆫ/ETM 것/NNB 이/VCP ᆫ/ETM 알/VV 고/EC 있/VX 었/EP 고/EC 막/MAG 이것저것/NNG 설치/NNG 하/XSV 아/EC 보/VX 았/EP 는데/EC 빠르/VA 고/EC 전체/NNG 적/XSN 으로/JKB 터치 감/NNP 도/JX 좋/VA 고/EC 좋/VA 습니다/EC 노트북/NNP 살/NNG 때/NNG 다른/MM 제품/NNG 과/JC 비교/NNG 하/XSV 아서/EC 가격/NNG 대비/NNG 정말/MAG 괜찮/VA 은/ETM 제품/NNG 이/VCP 라/EC 생각/NNG 하/XSV 고/EC 구매/NNG 하/XSV 았/EP 어요/EC 잘살/VV ㄴ/ETM 것/NNB 같/VA 아요/EC
-배송이 하루만에되네요 ㅎㅎ제가출장중에 노트북이필요해서 몇시간동안 타사이트비교 타사 게이밍노트북을찾아본결과요놈으루 선택을했습니다타사게이밍노트북이랑동일조건의 부품들인데도 가격이좀더싸고부담스런가격을 대신해줄 무이자할부와 카드할인!as부분도많이생각해서 삼성껄루삿네요근데 전원아답타가 ...무지막지하게크고..윈도우가 미설치된상태로와서 아직 사용은못해？지만집에가면 설치하고 언넝해보고싶네요~^^♡/NA
-오토/NNP 캐드/NNP 를/JKO 배우/VV 고/EC 싶/VX 어/EC 고사양/NNP 의/JKG 노트북/NNG 을/JKO 구매/NNG 하/XSV 게/EC 되/VV 었/EP 습니다/EF 혹시나/MAG 배송/NNP 중/NNB 에/JKB 파손/NNG 되/XSV ᆯ까/EC 보/VX 아/EC 걱정/NNG 을/JKO 많이/MAG 하/XSV 았/EP 는데/EC 그러/VV ᆫ/ETM 걱정/NNG 은/JX 괜하/VA ᆫ/ETM 짓/NNG 이/VCP 었/EP 습니다/EC 두/NNP 툼/NNG 하/XSV ᆫ/ETM 스티로폼/NNG 안/NNG 에/JKB 잘/MAG 끼우/VV 어/EC 지/VX 어/EC 있/VX 어/EC 파손/NNG 방지/NNG 배송/NNP 체계/NNG 가/JKS 잘/MAG 갖추/VV 어/EC 지/VX ᆫ/ETM 것/NNB 같/VA 습니다/EF ./SF 램/NNP 을/JKO 16/SN 으로/JKB 확장/NNG 하/XSV 아서/EC 구매/NNG 하/XSV 았/EP 는데/EC 이/NP 또한/MAG 역시/MAG 잘/MAG 하/XSA ᆫ/ETM 선택/NNG 인/NNP 것/NNB 같/VA 습니다/EF ./SF 오토/NNP 캐드/NNP 가/JKS 무리/NNG 없이/MAG 깔끔/XR 하/XSA 게/EC 돌아가/VV 는게/EC 아주/MAG 좋/VA 습니다/EF 디자인/NNG 또한/MAG 깔끔/XR 하/XSA ᆫ/ETM 블랙/NNG 에/JKB 래드/NNG 가/JKS 조화/NNG 롭/XSA 고/EC 심플/NNG 하/XSV ᆫ게/EC 마음/NNG 에/JKB 드/VV ㅂ니다/EF 그리고/MAJ 벽돌/NNG 벽돌/NNG 하/XSV 는데/EC 저/NP 는/JX 그렇게/MAG 무겁게/NNP 느껴지/VV 지/EC 는/JX 않/VX 았/EP 습니다/EF 대체/NNG 적/XSN 으로/JKB 아주/MAG 만족/NNG 하/XSV ㅂ니다/EF ./SF
-고민/NNG 고민/NNG 하/XSV 다가/EC 고르/VV ᆫ/ETM 제품/NNG 평/NNB 좋/VA 은/ETM 게임용/NNP 노트북/NNG ~/SO ^^/NNP 빠르/VA ᆫ/ETM 배송/NNP 에/JKB ~/SO 착한가격/NNP ~/SO 좋/VA 은/ETM 성능/NNP 의/JKG 삼성/NNP 노트북/NNG 탁월/XR 하/XSA ᆫ/ETM 선택/NNG 이/VCP 었/EP 네요/EF ./SF 엄청/MAG 좋아요/IC ~/SO ~/SO 강/NNP 추/NNP 강추/NNG 하/VX ㅂ니다/EF ./SF
-캐드/NNP 및/MAG 게임용/NNP 으로/JKB 찾아보/VV ᆫ/ETM 노트북/NNG !/SF 역시/MAG 품질/NNG 높/VA 은/ETM 삼성/NNP 노트북/NNG 으로/JKB 구매/NNG 하/XSV 았/EP 습니다/EF ./SF 속도/NNP 너무/MAG 빠르/VA 고/EC 엄청/MAG 좋/VA 아요/EC 강력/XR 추천/NNG 하/XSV ㅂ니다/EF
-빠르/VA ᆫ/ETM 배송/NNP 감사합니다'촤강성능에/NA 착한가격/NNP 에/JKB 맵/VA ᆫ/ETM 만족/NNG 하/XSV ㅂ니다/EF 4/SN K/SL 동영상/NNG 작업/NNG 도/JX 가능/NNG 하/XSV 다니/EC 대단/XR 하/XSA ㅂ니다/EF ./SF 조/NNP ㅎ/NNP 은/JX 노트북/NNG 잘/MAG 쓰/VV 겠/EP 습니다/EF
-제품/NNG 평이/XR 좋/VA 아서/EC 이모저모/NNG 따지/VV 어/EC 보/VX 며/EC 구매/NNG 하/XSV 았/EP 습니다/EF 제품/NNG 좋/VA 아요/EC 배그/NNP 높/VA 음/ETN 정/NNP 도/JX 잘/MAG 돌아가/VV 구요/EC 삼성/NNP 제품/NNG 요/MM 가격/NNG 에/JKB 구매/NNG 하/XSV ᆯ/ETM 수/NNB 있/VX 어/EC 좋/VA 았/EP 습니다/EF 일단/MAG 컴맹/NNG 이/VCP ᆫ지라/EC 서비스/NNG 때문/NNB 이/VCP 라도/EC 대기업제품/NNP 으로/JKB 꼭/MAG 사/VV 아야/EC 하/VX 았/EP 어요/EC 맹/NNP ㅜ/NNP 만족/NNG 하/XSV ㅂ니다/EF
-오/VV 자마자/EC 켜/VV 어서/EC 롤/NNG 부터/JX 깔/VV 아서/EC 실행/NNG 해보/VV 았/EP 는데/EC 다운로드/NNG 까지/JX 시간/NNG 3/SN 분/NNB 채/NNB 안/MAG 되/XSA 고/EC 실행/NNG 도중/NNG 렉거림/NA 1/SN 중/NNB 없/VA 었/EP 음/ETN 웬만/XR 하/XSA ᆫ/ETM pc/SL 방/NNP 컴퓨터/NNG 정도/NNG 이/VCP ᄆ/ETN 화질/NNG 나쁘/VA 지/EC 않/VX 고/EC 안/NNG 좋/VA 은/ETM 것/NNB 이/VCP ᆫ/ETM ../NNP 딱히/MAG 없/VA 었/EP 던/ETM 것/NNB 같/VA 음/ETN 배송/NNP 은/JX 빠르/VA 고/EC 안전/NNG 굳/VV 굳/VV 처음/NNG 산/XSN 게이밍노트북이여서/NA 어떤/MM 것/NNB 이/VCP ᆯ/ETM 사/VV 아야/EC 되/VV 는지/EC 뭐/NP 가/JKS 좋/VA ᆫ지/EC 모르/VV 아서/EC 고민/NNG 끝/NNG 에/JKB 사/VV 았/EP 는데/EC 다행이/MAG 도/JX 후회/NNG 는/JX 안/NNG 하/XSV ᆯ듯/EC 싶/VX 어요/EC 만족도/NNG 굳/VA
-배송/NNP 도/JX 빠르/VA 게/EC 잘/MAG 오/VX 고 성능/NNP 도/JX 좋/VA 습니다/EF ./SF 노트북/NNP 성능/NNG 도/JX 램/NNG 8/SN 기가/NNP 에/JKB 그래픽카드/NNP 1050/SN ti/SL ,/SP cpu/SL 도/JX i7/NNP 인/NNP 최신/NNG 컴퓨터/NNG 를/JKO 저렴/XR 하/XSA ᆫ/ETM 편/NNB 에/JKB 구입/NNG 하/XSV ᆯ/ETM 수/NNB 있/VX 었/EP 습니다/EF ./SF 그런데/MAJ 이/MM 댓/NR 글/NNG 달/VV 면/EC 키보드/NNG 를/JKO 주/VX ᆫ다고/EC 하/VV 시/EP 었/EP 었/EP 는데/EC 어차피/MAG 노트북/NNG 에/JKB 는/JX 키보드/NNG 가/JKS 달리/VV 어/EC 있/VX 으니/EC 키보드/NNG 대신/NNG 게이밍할때/NA 꼭/MAG 필요/NNG 하/XSV ᆫ/ETM 게이밍/NA 헤드셋/NNG 을/JKO 주/VX 시/EP 는/ETM 것/NNB 도/JX 괜찮/VA 1/NNG 이/VCP 다고/EC 보/VX ㅂ니다/EF ./SF (/SS ㅎㅎ/NNP )/SS 다음/NNG 에/JKB 컴퓨터/NNG 를/JKO 사/VV 게/EC 되/VX ᆯ/ETM 때/NNG 도/JX 이/MM 사이트/NNG 에서/JKB 사/VV 도록/EC 하/VV 겠/EP 습니다/EF ./SF
-좋/VA 은/ETM 제품/NNG 좋/VA 은/ETM 가격/NNG 완전/NNG 만족/NNG 하/XSV ㅂ니다/EC 빠르/VA ᆫ/ETM 배송/NNP 과/JC 최고/NNG 의/JKG 성능/NNG 의/JKG 게이밍노트북/NA 게임/NNG 하/XSV ᆯ/ETM 때/NNG 마다/JX 성능/NNG 에/JKB 만족/NNG 하/XSV ᆯ/ETM 것/NNB 같/VA 아요/EC 좋/VA 은/ETM 제품/NNG 빠르/VA ᆫ/ETM 배송/NNP 감사합니다/IC
-잘/MAG 받/VV 았/EP 습니다/EF ./SF 수고/NNG 하/XSV 세요/EF ./SF
-노트북/NNG 장만/NNG 하/XSV 려고/EC 며칠/NNG 동안/NNG 고심/NNG 하/XSV 다가/EC 마음먹/VV 고/EC 주문/NNG 하/XSV 았/EP 습니다/EF ㅎㅎ/NNP 아직/MAG 까지/JX ᆫ/JX 제대로/MAG 쓰/VV 어/EC 보/VX 지/EC 는/JX 못하/VX 았/EP 지만/EC 별/MM 이상/NNG 은/JX 없/VA 어/EC 보이/VV 네요/EC 액정필름/NNP 이랑/JC 외부/NNG 필름/NNG 을/JKO 잘못/MAG 붙/VV 아서/EC 사진/NNG 이/JKS 좀/MAG 이상/NNG 하/XSV 게/EC 나오/VV 긴/EC 하/VX 았/EP 는데/EC 제품/NNG 은/JX 만족/NNG 하/XSV ㅂ니다/EF
-선물/NNG 로/JKB 구입/NNG 하/XSV ᆫ/ETM 건대/NNP 가져오/VV 아서/EC 윈도/NNP 깔/VV 다/EC 고장/NNG 획/NNG 인/NNP 하고/JC 기분/NNG 이/JKS 별로/MAG 이/VCP 었/EP 어요/EC 제/NP 가/JKS 시간/NNG 이/JKS 없/VA 어서/EC 교환/NNG 하/XSV 러/EC 친구/NNG 에게/JKB 부탁/NNG 하/XSV 았/EP 네요/EF 제품/NNG 주/VX 기/ETN 전/NNP 에/JKB 한번/NNG 씩/XSN 검사/NNG 하/XSV 아/EC 주/VX 시/EP 었/EP 다면/EC 번거롭/VA ᆫ/ETM 일/NNG 은/JX 없/VA 었/EP 을/ETM 텐/NNP 대요/NNG 아직/MAG 까지/JX 별/MM 이상/NNG 은/JX 없/VA 어요/EC 업무용/NNP 으로/JKB 쓰/VV ᆯ/ETM 껀/NNP 대/NNB 고장/NNG 없이/MAG 오래/MAG 쓰/VV 기/ETN ㄹ/JKO 바래/VV 요/EC
-삼성/NNP 제품/NNG 에/JKB 이렇게/MAG 가격/NNG 및/MAG 성능/NNG 으로/JKB 만족/NNG 하/XSV 는/ETM 제품/NNG 이/VCP !/EF !/SF !/SF 잘/MAG 사용/NNG 하/XSV 고/EC 있/VV 습니다/EC ../NNP
-오늘/MAG 물건/NNG 받/VV 자마자/EC 윈도우/NNP 깔/VV 고/EC 죙일/NNG 패치/NNG 하/XSV 았/EP 네요/EF ./SF SSD/NNP 를/JKO 쓰/VV ᆫ/ETM 적/NNB 이/JKS 없/VA 어서/EC 부팅속도/NNP 가/JKS 이/MM 정도/NNG 로/JKB 빠르/VA ᆫ/ETM 적/NNB 이/JKS 없/VA 었/EP 네요/EF ./SF 첨/NNG 에/JKB 그래픽/NNG 드라이버/NNG 설치/NNG 가/JKS 안/NNG 되/XSV 어서/EC 고생/NNG 하/XSV 았/EP 는데/EC 윈도우 10/NNP 버전/NNG 이/JKS RS/SL 2/SN 이상/NNG 되/XSV 어야/EC 설치/NNG 되/XSV ᆫ다고/EC 하/VX 네요/EF ;/SP ;/SP 아직/MAG 게임/NNG 같/VA 은걸/EC 돌리/VV 어/EC 보/VX 지/EC 못하/VX 아서/EC 게임/NNG 성능/NNG 은/JX 체감/NNG 못/NNG 하/XSV 아/EC 보/VX 았/EP 지만/EC 조만/NNP 간/NNB 에/JKB 게임/NNG 다/MAG 깔/VV 고/EC VR/SL 중/NNB 하/VV 아/EC 보/VX 아야/EC 하/VX 겠/EP 네요/EF ./SF 잘/MAG 받/VV 았/EP 고/EC 잘/MAG 쓰/VV 겠/EP 습니다/EF ~/SO
-직접/MAG 받/VV 아/EC 보/VX 니/EC 너무/MAG 좋/VA 네요/EF ~/SO ~/SO 사용/NNG 하/XSV 아/EC 보/VX 니/EC 넘/VV ㅜ/NNP 만족/NNG 하/XSV ㅂ니다/EF ~/SO ~/SO ~/SO ~/SO ~/SO 소리/NNG 도/JX 조용/XR 하/XSA 고/EC 가성비/NNP 성능/NNG 이/JKS 좋은것/NNP 같/VA 네요/EF ~/SO ~/SO 충전/NNG 어댑터/NNG 크기/NNG 는/JX 좀/NNP 크기/NNG ㄴ/JX 하/VV 네요/EF 잘/MAG 쓰/VV ᆯ께요/EF ~/SO ~/SO
-원동/NNP ㅜ/NNP 프리/NNG 제품/NNG 이/VCP 라/EC 윈도우10/NNP 설치/NNG 하/XSV ᆯ/ETM 때/NNG 좀/MAG 버벅/MAG 거리/VV 었/EP 지만/EC 윈도우/NNP 설치/NNG ㅎ/NNP ㅜ/NNP 삼성/NNP 드라이버/NNG 를/JKO 모두/NNG 설치/NNG 를/JKO 하니/NNP 화질/NNG 이나/JC 성능/NNG 모두/NNG 만족/NNG 하/XSV ㅂ니다/EC 게임용/NNP 이/VCP 라/EC 그러/VV ᆫ지/EC 전원/NNG 아답터/NNG 가/JKS 엄청/MAG 크/VA 네요/EC ㅋ/NNP
-성능/NNG 대비/NNG 저렴/XR 하/XSA ᆫ/ETM 가격/NNG //SP 가격/NNG 대비/NNG 고사양/NNP ?/SP 중소기업/NNG 제품군/NNG 과/JC 삼성/NNP 제품/NNG 사이/NNG 에서/JKB 고민/NNG 하/XSV 다가/EC 결국/MAG 삼성/NNP 제품/NNG 을/JKO 구입/NNG 하/XSV 게/EC 되/VV 었/EP 네요/EF ./SF 중소기업/NNG 제품군/NNG 도/JX 기능/NNG 추가/NNG 하/XSV 면/EC 가격/NNG 이/JKS 비슷/XR 하/XSA ᆫ/ETM 것/NNB 같습니다.게이밍용/NA 제품/NNG 이/VCP 기/ETN ᆫ/JX 하지만/MAJ ,/SP 3/SN d/SL 프로그램/NNG 스터디/NNG 용/XSN 으로/JKB 구매/NNG 하/XSV 아/EC 보/VX 았/EP 습니다/EF ./SF 데스크/NNG 용/XSN 은/JX 아니/VCN 지만/EC ,/SP 노트북/NNG 이/VCP ᆫ데/EC 아답터/NNG 가/JKS 생각/NNG 보다/JKB 많이/MAG 크/VA 네요/EF ./SF 다/NNP 들/XSN 고사양/NNP 이/VCP 라서/EC 그렇/VA 다고/EC 하/VV 시/EP 네요/EF ./SF 휴대용/NNP 은/JX 아니/VCN ᆫ/ETM 것/NNB 로/JKB ../NNP ./SF ㅎ/NNP 기능/NNG 은/JX 업그레이드/NNG 가능/NNG 하/XSV 다고/EC 하/VV 니/EC 크/VA ᆫ/ETM 문제/NNG 는/JX 없/VA 을/ETM 듯/NNB 하/VX ㅂ니다/EF ./SF 이제/MAG 열공/NNP 하/XSA 아야/EC 하/VX 겠/EP 네요/EF ./SF ./SF
-디자인/NNG 은/JX 만족스럽/VA 습니다/EF ./SF 1060/SN 이/NR 탑재/NNG 되/XSV ᆫ/ETM 다른/MM 회사/NNG 제품/NNG 들/XSN 에/JKB 비하/VV 아/EC 너무/MAG 화려/XR 하/XSA 지/EC 않/VX 고/EC 깔끔/XR 하/XSA ᆫ/ETM 느낌/NNG 이/VCP ㅂ니다/EF ./SF 사진/NNG 에서/JKB 보/VV 다시피/EC 키보드/NNG 하/VV 단/ETM 빨간색/NNG 조명/NNG 도/JX 옆/NNG 에서/JKB 보/VV 지/EC 않/VX 으면/EC 켜/VV 어/EC 지/VX 어/EC 있/VX 는지/EC 잘/MAG 느껴지/VV 지/EC 않/VX 습니다/EF ./SF 발열/NNG 문제/NNG 가/JKS 좀/MAG 제기/NNG 되/XSV ᆫ/ETM 것/NNB 같/VA 던데/EC ,/SP 아직/MAG 까지/JX 는/JX 양호/NNG 하/XSV ᆫ/ETM 것/NNB 같/VA 아요/EF ./SF 다른/MM 후기/NNG 에서/JKB 보/VV ᆫ/ETM 것/NNB 처럼/JKB 아답터/NNG 는/JX 많이/MAG 크/VA 네요/EF ./SF 고사양/NNP 이/VCP 기/ETN 때문/NNB 에/JKB 어쩌/VV ᆯ/ETM 수/NNB 없/VA 겠/EP 지만요/EF ./SF ../NNP 빠르/VA ᆫ/ETM 배송/NNP 좋/VA 았/EP 고/EC ,/SP 제품/NNG 도/JX 만족/NNG 하/XSV ㅂ니다/EF ./SF 가격/NNG 도/JX 삼성/NNP 브랜드/NNG 이/VCP 지만/EC 다른/MM 외국/NNG 제품/NNG 에/JKB 비하/VV 아/EC 경쟁력/NNG 이/JKS 있/VX 었/EP 구요/EF ./SF
-어제/MAG 직접/MAG 방문수령/NNP 하/XSV 았/EP 고/EC 마우스/NNG 도/JX 함께/MAG 받/VV 았/EP 습니다/EF ./SF 참고/NNG 로/JKB 마우스/NNG 는/JX 유선/NNG 이/VCP ㅂ니다/EF ./SF 게임용/NNP 첨사/NNG 보/VV 아서/EC 잘/MAG 모르/VV 지만/EC 아래/NNG 구멍/NNG 도/JX 슝/MAG 슝/MAG 뚫리/VV 어/EC 있/VX 어/EC 열/NNG 이/JKS 잘/MAG 빠져나가/VV ᆯ듯/EC 하/VX ㅂ니다/EF ./SF gtx/SL 1060/SN 3/SN 기가/NNP 로/JKB 도/JX 배그/NNP 돌리/VV ᆫ다던데/EC 잘/MAG 돌아가/VV ᆯ듯/EC 하/VX ㅂ니다/EF ./SF 마우스패드/NNP 키보드/NNG 에/JKB 불/NNG 도/JX 들어오/VV 고/EC 야간/NNG 에/JKB 도/JX 불/NNG 끄/VV 고/EC 하/VX 아도/EC 무리/NNG 없/VA 을/ETM 듯/NNB 하/XSA 네요/EC 잘/MAG 쓰/VV ㄹ게요/EF !/SF ^^/NNP
-정말/MAG 고민/NNG 하/XSV 고/EC 또/MAG 고민/NNG 하/XSV 아서/EC 구매/NNG 하/XSV 았/EP 습니다/EF ./SF 아들/NNG 게임/NNG 노트북/NNG 노래/NNG 를/JKO 부르/VV 어/EC 큰맘/NNG 먹/VV 고/EC 선택/NNG 하/XSV 았/EP 습니다/EF ./SF 외관/NNG 도/JX 멋지/VA 고 성능/NNP 도/JX 좋/VA 고/EC 최상/NNG 의/JKG 선택/NNG 을/JKO 한/MM 것/NNB 같/VA 습니다/EF ./SF 오버워치/NNP 하/XSA ᆫ다고/EC 좋아하/VV 는/ETM 아들/NNG 보/VV 니/EC 저/NP 도/JX 좋/VA 네요/EF ./SF 최고/NNG 의/JKG 노트북/NNG 좋/VA 은/ETM 가격/NNG 추천/NNG 드리/VV 어요/EF ./SF
-한성/NNP 과/JC 삼성/NNP 을/JKO 고민/NNG 하/XSV 다가/EC 삼성/NNP 을/JKO 사/VV 게/EC 되/VX 었/EP 는데/EC 배송/NNP 속도/NNG 도/JX 좋/VA 고/EC 노트북/NNG 외형/NNG 도/JX 마음/NNG 에/JKB 들/VV 어요/EF ./SF 처음/NNG 쓰/VV 어/EC 보/VX 는/ETM 게임용/NNP 이/VCP 라/EC 어떻/VA ᆯ지/EC 는/JX 모르/VV 겠/EP 지만/EC 옵션/NNG 이/JKS 좋/VA 은/ETM 것/NNB 같/VA 아요/EF ./SF 잘/MAG 쓰/VV 겠/EP 습니다/EF ./SF 많이/MAG 파/VV 세요/EF ./SF
-성능/NNG 좋/VA 은/ETM 업무용/NNP 노트북/NNG 이/JKS 급히/MAG 필요/NNG 하/XSV 았/EP 다/EF ./SF 아들/NNG 에게/JKB 데스크탑/NNG 게임용/NNP 사주/NNG 이/VCP 기/ETN 로/JKB 약속/NNG 하/XSV 았/EP 다/EF ./SF 고민/NNG 하/XSV 았/EP 다/EF ./SF 아/NNP 땡땡/MAG 의/JKG 고성능/NNP 경제/NNG 성/XSN 에/JKB 한/MM 표/NNG 발열/NNG 문제/NNG 제기/NNG 중/NNB 이/VCP 랍니다/EF ./SF 망설이/VV ᄆ/ETN 삼성/NNP 오디세이/NNP 발열/NNG 말/NNG 이/JKS 나오/VV 는/ETM 것/NNB 같/VA 았/EP 다고/EC 민/NNP 끝/NNG 에/JKB 대한민국/NNP AS/SL 에/JKB 올/MM 인/NNP 그래픽/NNG 6/SN 기가/NNP 1060/SN ,/SP i7/NNP 7세대/NNP SSD/NNP 256/SN 에/JKB 8/SN 기가/NNP 메모리/NNG 하단/NNG 의/JKG 듀얼/NNG 쿨러/NNG 아직/MAG 많이/MAG 쓰/VV 어/EC 보/VV 지/EC 는/JX 않/VX 았/EP 지만/EC 현재/NNG 까지/JX 는/JX 만족/NNG 하/XSV ᆫ다/EF ./SF
-대학생/NNG 이/JKS 쓰/VV ᆯ/ETM 노트북/NNG 을/JKO 찾/VV 다가/EC 가격/NNG 대비/NNG 성능/NNG 이/JKS 중소업체/NNP 노트북/NNG 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC 우연히/MAG 옥션/NNP 에서/JKB 삼성/NNP 노트북/NNG 을/JKO 검색/NNG 하/XSV 다보니/EC 가격/NNG 대비/NNG 성능/NNG 이/JKS 마음/NNG 에/JKB 들/VV 어/EC 구매/NNG 하/XSV 겠/EC 되/VX 었/EP 습니다/EF ./SF 아들/NNG 은/JX 매우/MAG 만족/NNG 하/XSV 며/EC 사용/NNG 하/XSV 고/EC 있/VV 답니다/EC
-중소기업/NNG 노트북/NNG 과/JC 삼성/NNP 노트북/NNG 가격/NNG 비교/NNG 를/JKO 하/VV 다가/EC 이/MM 제품/NNG 을/JKO 찾/VV 게/EC 되/VV 었/EP 는데/EC 제/NP 가/JKS 원하/VV 는/ETM 사양/NNG 은/JX 16/SN 기가/NNP 램/NNG 에/JKB 1060/SN 6/SN 기가/NNP i7/NNP ssd/SL +/SW hdd/SL 로/JKB 구하/VV 다/EC 보/VV 니/EC 다른/MM 회사/NNG 제품/NNG 들/XSN 도/JX 옵션/NNG 을/JKO 추가/NNG 하/VV 아야/EC 하/VV 더라구요/EC 이/VCP ᆫ/ETM 노트북/NNG 도/JX 물론/MAG 그렇/VA 어야/EC 하/VV 았/EP 지만/EC 가격/NNG 차이/NNG 가/JKS 생각/NNG 보다/JKB 나/VV 지/EC 않/VX 았/EP 습니다/EF ./SF 약/MM 5/SN 만/NR 원/NNB 정도/NNG 그래서/MAJ 대기업/NNG 삼성/NNP 믿/VV 고/EC 구매/NNG 하/VV 었/EP 는데/EC 배송/NNP 도/JX 빠르/VA 고/EC 정말/MAG 만족도/NNG 가/JKS 높/VA 았/EP 습니다/EF ./SF
-먼저/MAG 구성품/NNP 은/JX 어댑터/NNG +/SW 본체/NNG +/SW 드라이버/NNG 설치/NNG CD/SL 네/XSN 이/VCP 요/EF ./SF SSD/NNP 이/VCP 라/EC 윈도우 10/NNP 설치/NNG 시간/NNG 이/JKS 일반/NNG 하드/NNG 디스크/NNG 랑/JKB 비교/NNG 가/JKS 안되/VA 게/EC 빠르/VA 네요/EF ./SF 부팅속도/NNP 가/JKS 굉장히/MAG 빠르/VA 네요/EF ./SF 여러/MM 창/NNG 을/JKO 띄우/VV 어/EC 놓/VX 고/EC 테스트/NNG 하/XSV 아도/EC 전혀/MAG 버벅/MAG 거리/VV 지/EC 않/VX 네요/EF ./SF 게임/NNG 은/JX 아직/MAG 해보/VV 지/EC 않/VX 았/EP 으나/EC 전체/NNG 적/XSN 으로/JKB 만족/NNG 하/XSV ᄆ/ETN ./SF
-5/SN 년/NNB 동안/NNG 쓰/VV 던/ETM 맥북/NNP 이/JKS 갑자기/MAG 켜지/VV 지/EC 않/VX 아/EC 고치/VV 어서/EC 쓰/VV ᆯ까/EC 좋/VA 은/ETM 노트북/NNP 하나/NR 살/VV ᆯ까/EC 진짜/MAG 엄청나/VA 게/EC 고민/NNG 하/XSV 다가/EC 그래/IC !/SF 이렇게/MAG 되/XSV ᆫ/ETM 것/NNB 좋/VA 은/ETM 노트북/NNG 하나/NR 사자/NNG 하/XSV 고/EC 엄청나/VA ᆫ/ETM 검색/NNG 과/JC 성능/NNG 비교/NNG 하/XSV 면서/EC 삼성/NNP odyssey/SL NT/SL 800/SN G/SL 5/SN S/SL -/SS XD/SL 71/SN A/SL 로/JKB 사/VV 았/EP 는데/EC 역시/MAG 나/JX 역시/MAG 이/VCP ㅂ니다/EC 배송/NNP 도/JX 엄청/MAG 빠르/VA 고/EC 안전하게/NNP 오/VV 았/EP 구요/EF 노트북/NNG 사양/NNG 도/JX 너무/MAG 좋/VA 고/NNP 완전/NNG 마음/NNG 에/JKB 쏙/VV 어/EC 들/VV ㅂ니다/EF 이/VCP ᆫ/ETM 노트북/NNG 은/JX 망가지/VV 지/EC 않/VX 도록/EC 조심히/MAG 소중히/MAG 사용/NNG 하/XSV 려구요/EF ~/SO ~/SO 포토/NNP 리뷰/NNG 도/JX 있/VV 으니/EC 일석이조/NNG 네요/EF !/SF 빠르/VA ᆫ/ETM 배송/NNP 안전배송/NNP 좋/VA 은/ETM 상품/NNG 보내주/VV 시/EP 어서/EC 감사합니다/IC 번창/NNG 하/XSV 시/EP 어요/EC ^^/NNP
-믿/VV 고/EC 쓰/VV 는/ETM 삼성/NNP 노트북/NNG ~/SO 잘/MAG 사용/NNG 하/XSV 아/EC 앞/NNG 으로/JKB 도/JX 10/SN 년/NNB 은/JX 사용/NNG 가능/NNG 하/VV ᆯ/ETM 듯/NNB ~/SO
-5/SN 년/NNB 동안/NNG 쓰/VV 던/ETM 맥북/NNP 이/JKS 갑자기/MAG 켜지/VV 지/EC 않/VX 아/EC
-고치/VV 어서/EC 쓰/VV ᆯ까/EC 좋/VA 은/ETM 노트북/NNP 하나/NR 살/VV ᆯ까/EC
-진짜/MAG 엄청나/VA 게/EC 고민/NNG 하/XSV 다가/EC 그래/IC !/SF 이렇게/MAG 되/XSV ᆫ/ETM 것/NNB 좋/VA 은/ETM 노트북/NNG 하/XSV 나/EC 살/VV 자/EC
-하/VV 고/EC 엄청나/VA ᆫ/ETM 검색/NNG 과/JC 성능/NNG 비교/NNG 하/XSV 면서/EC 삼성/NNP odyssey/SL NT/SL 800/SN G/SL 5/SN S/SL -/SS XD/SL 71/SN A/SL 로/JKB 사/VV 았/EP 는데/EC 역시/MAG 나/JX 역시/MAG 이/VCP ㅂ니다/EF
-배송/NNP 도/JX 엄청/MAG 빠르/VA 고/EC 안전하게/NNP 오/VV 았/EP 구요/EF 노트북/NNG 사양/NNG 도/JX 너무/MAG 좋/VA 고/EC
-완전/NNG 마음/NNG 에/JKB 쏙/VV 어/EC 들/VV ㅂ니다/EF
-이/MM 노트북/NNG 은/JX 망가지/VV 지/EC 않/VX 도록/EC 조심히/MAG 소중히/MAG 사용/NNG 하/XSV 려구요/EF ~/SO ~/SO
-포토/NNG 리뷰/NNG 도/JX 있/VV 으니/EC 일석이조/NNG 네요/EF !/SF
-빠르/VA ᆫ/ETM 배송/NNP 안전배송/NNP 좋/VA 은/ETM 상품/NNG 보내주/VV 시/EP 어서/EC 감사합니다/IC
-번창/NNG 하/XSV 시/EP 어요/EC ^^/NNP
-고사양/NNP 성능/NNG 을/JKO 정말로/MAG 고민/NNG 하/XSV 다/EC 구매/NNG 하/XSV ᆫ/ETM 제품/NNG 빠르/VA ᆫ/ETM 배송/NNP 으로/JKB 잘/MAG 받/VV 았/EP 습니다/EF 가격/NNG 도/JX 착한가격/NNP 에/JKB 삼성/NNP 오딧세이/NNP 게임용/NNP 으로/JKB 최고/NNG 이/VCP ᆯ듯/EC 하/VX ㅂ니다/EF 감사합니다/IC
-선물/NNG 로/JKB 구입/NNG 하/XSV ᆫ/ETM 건대/NNP 가져오/VV 아서/EC 윈도/NNP 깔/VV 다/EC 고장/NNG 획/NNG 인/NNP 하고/JC 기분/NNG 이/JKS 별로/MAG 이/VCP 었/EP 어요/EC 제/NP 가/JKS 시간/NNG 이/JKS 없/VA 어서/EC 교환/NNG 하/XSV 러/EC 친구/NNG 에게/JKB 부탁/NNG 하/XSV 았/EP 네요/EF
-제품/NNG 주/VX 기/ETN 전/NNP 에/JKB 한번/NNG 씩/XSN 검사/NNG 하/XSV 아/EC 주/VX 시/EP 었/EP 다면/EC 번거롭/VA ᆫ/ETM 일/NNG 은/JX 없/VA 었/EP 을/ETM 텐/NNP 대/NNB 요/JX
-아직/MAG 까지/JX 별/MM 이상/NNG 은/JX 없/VA 어요/EC 업무용/NNP 으로/JKB 쓰/VV ᆯ/ETM 껀/NNP 대/NNB 고장/NNG 없이/MAG 오래/MAG 쓰/VV 기/ETN ㄹ/JKO 바래/VV 요/EC
-직접/MAG 받/VV 아/EC 보/VX 니/EC 너무/MAG 좋/VA 네요/EF ~/SO ~/SO 사용/NNG 하/XSV 아/EC 보/VX 니/EC 넘/VV ㅜ/NNP 만족/NNG 하/XSV ㅂ니다/EF ~/SO ~/SO ~/SO ~/SO ~/SO 소리/NNG 도/JX 조용/XR 하/XSA 고/EC 가성비/NNP 성능/NNG 이/JKS 좋은것/NNP 같/VA 네요/EF ~/SO ~/SO 충전/NNG 어댑터/NNG 크기/NNG 는/JX 좀/NNP 크기/NNG ㄴ/JX 하/VV 네요/EF ~/SO ~/SO
-처음/NNG 에/JKB 는/JX 리/NNB 룩스/NNG 제품/NNG 이/VCP ᆫ지/EC 인지/NNG 를/JKO 못하/VX 았/EP 는데/EC 윈도우/NNP 업데이트/NNG 하/VV 니까/EC 잘/MAG 돌아가/VV 요/EC 싸게/NNP 잘/MAG 사/VV 았/EP 어요/EC 그런데/MAJ 사은품/NNG 주/VX 는/ETM 기간/NNG 이/JKS 끝나/VV 았/EP 나요/EF ?/SF
-정말/MAG 고민/NNG 하/XSV 고/EC 또/MAG 고민/NNG 하/XSV 아서/EC 구매/NNG 하/XSV 았/EP 습니다/EF ./SF
-아들/NNG 게임/NNG 노트북/NNG 노래/NNG 를/JKO 부르/VV 어/EC 큰맘/NNG 먹/VV 고/EC 선택/NNG 하/XSV 았/EP 습니다/EF ./SF
-외관/NNG 도/JX 멋지/VA 고 성능/NNP 도/JX 좋/VA 고/EC 최상/NNG 의/JKG 선택/NNG 을/JKO 한/MM 것/NNB 같/VA 습니다/EF ./SF
-오버워치/NNP 하/XSA ᆫ다고/EC 좋아하/VV 는/ETM 아들/NNG 보/VV 니/EC 저/NP 도/JX 좋/VA 네요/EF ./SF
-최고/NNG 의/JKG 노트북/NNG 좋/VA 은/ETM 가격/NNG 추천/NNG 드리/VV 어요/EF ./SF
-삼성/NNP 노트북/NNG 오딧세이/NNP NT/SL -/SS 800/SN G/SL 5/SN S/SL -/SS XD/SL 71/SN A/SL 개봉/NNG 후기/NNG 노트북/NNG 을/JKO 많이/MAG 판매/NNG 하/XSV 는/ETM 사람/NNG 으로/JKB 인텔/NNP I7/NNP 7700/SN HQ/SL 에/JKB 메모리/NNG 8/SN G/SL SSD/NNP 256G/NNP 에/JKB 그래픽/NNG 요놈/NP 이/JKS 가장/MAG 중요/XR 하/XSA ᆫ데/EC GEFORCE/SL GTX/SL 1060/SN 6/SN G/SL 가/JKS 장착/NNG 되/XSV 어/EC 있/VV 어서/EC 왠만/XR 하/XSA ᆫ/ETM 게임/NNG 요즘/NNG 한창/MAG 주가/NNG 가/JKS 높/VA 은/ETM 배틀/NNG 그라운드/NNG 랑/JKB 오버워치/NNP 심/VV 지/EC 허/NNP GTA/SL 5/SN 까지/JX 풀/VV 옵/EP 으로/EC 잘/MAG 돌아가/VV ᆫ다/EF ./SF ㅋ/NNP ㅑ/SW 간만에/MAG 삼성/NNP 에서/JKB 제대로/MAG 되/XSV ᆫ/ETM 노트북/NNG 을/JKO 만들/VV ᆫ/ETM 것/NNB 같/VA 다/EF ./SF 가격/NNG 적/XSN 인/NNP 측면/NNG 에서/JKB ᆫ/JX 중소/NNG 브랜드/NNG 에/JKB 비하/VV 아/EC 쬐/VV ㅁ/ETN 끔/EC 비싸/VA 지만/EC 향후/NNG A/SL //SP S/SL 측면/NNG 에서/JKB 보/VV 면/EC 삼성/NNP 이/MM 제품/NNG 구매/NNG 하/XSV 시/EP ᆫ/ETM 고객/NNG 님/XSN 은/JX 최대한/NNG 만족/NNG 하/XSV 시/EP ᆯ거라/EC 믿/VV 는다/EF ./SF 혹시/MAG 이/MM 제품/NNG 을/JKO 구매/NNG 하/XSV 고/EC 싶/VX 은/ETM 신/NNP 분/NNB 들/XSN 은/JX 안심/NNG 하/XSV 고/EC 구매/NNG 하/XSV 시/EP 어도/EC 되/VV ᆯ/ETM 듯/NNB 하/VX ㅂ니다/EF ./SF 정말/MAG 강력/XR 추천/NNG 하/XSV 아/EC 드리/VX ㅂ니다/EF ./SF 또한/MAG 3/SN D/SL 작업/NNG 을/JKO 하/VV 시/EP 는/ETM 사장님/NNG 들/XSN 도/JX 망설임/NNG 없이/MAG 구입/NNG 하/XSV 시/EP 어도/EC 되/VV ᆯ/ETM 것/NNB 같/VA 네요/EC
-성능/NNG 좋/VA 은/ETM 업무용/NNP 노트북/NNG 이/JKS 급히/MAG 필요/NNG 하/XSV 았/EP 다/EF ./SF
-아들/NNG 에게/JKB 데스크탑/NNG 게임용/NNP 사주/NNG 이/VCP 기/ETN 로/JKB 약속/NNG 하/XSV 았/EP 다/EF ./SF
-고민/NNG 하/XSV 았/EP 다/EF ./SF
-아/IC 땡땡/MAG 의/JKG 고성능/NNP 경제/NNG 성/XSN 에/JKB 한/MM 표/NNP
-발열/NNG 문제/NNG 제기/NNG 중/NNB 이/VCP 랍니다/EF ./SF 망설임/NNG
-삼성/NNP 오디세이/NNP 발열/NNG 말/NNG 이/JKS 나오/VV 는/ETM 것/NNB 같/VA 았/EP 다/EC
-고민/NNG 끝/NNG 에/JKB 대한민국/NNP AS/SL 에/JKB 올/MM 인/NNP
-그래픽/NNG 6/SN 기가/NNP 1060/SN ,/SP i7/NNP 7세대/NNP
-SSD/NNP 256/SN 에/JKB 8/SN 기가/NNP 메모리/NNG
-하단/NNG 의/JKG 듀얼/NNG 쿨러/NNG
-아직/MAG 많이/MAG 쓰/VV 어/EC 보/VV 지/EC 는/JX 않/VX 았/EP 지만/EC
-현재/NNG 까지/JX 는/JX 만족/NNG 하/XSV ᆫ다/EF ./SF
-대학생/NNG 이/JKS 쓰/VV ᆯ/ETM 노트북/NNG 을/JKO 찾/VV 다가/EC 가격/NNG 대비/NNG 성능/NNG 이/JKS 중소업체/NNP 노트북/NNG 으로/JKB 결정/NNG 하/XSV 았/EP 는데/EC
-우연히/MAG 옥션/NNP 에서/JKB 삼성/NNP 노트북/NNG 을/JKO 검색/NNG 하/XSV 다보니/EC 가격/NNG 대비/NNG 성능/NNG 이/JKS 마음/NNG 에/JKB 들/VV 어/EC 구매/NNG 하/XSV 겠/EC
-되/VV 었/EP 습니다/EF ./SF 아들/NNG 은/JX 매우/MAG 만족/NNG 하/XSV 며/EC 사용/NNG 하/XSV 고/EC 있/VV 답니다/EC
-5/SN 월/NNB 4/SN 일/NNB 주문/NNG 하/XSV 아서/EC 바로/MAG 용산/NNP 으로/JKB 가/VV 아서/EC 방문수령/NNP 하/VV 았/EP 습니다/EF ./SF 윈도우/NNP 설치/NNG 하/XSV 고/EC 이제야/MAG 상품평/NNP 남기/VV 네요/EC 사양/NNG 이야/JX 워낙/MAG 좋/VA 으니까/EC 그렇/VA 다/EC 치/VV 지만/EC 무게/NNG 가/JKS 2/SN ./SF 62/SN Kg/SL 이/NP 이/VCP 라/EC 너무/MAG 무겁/VA 지/EC 않/VX 을까/EC 생각/NNG 하/XSV 았/EP 는데/EC 생각/NNG 보다/JKB 는/JX 덜/MAG 무겁/VA 네요/EF ./SF ../NNP 대신/NNG 생각/NNG 보다/JKB 아답터/NNG 가/JKS 너무/MAG 크/VA 어서/EC 좀/MAG 당혹/NNG 스럽/VA 기/ETN ᆫ/JX 하/VV 네요/EC ../NNP ㅎㅎ/NNP 암튼/MAG 전반/NNG 적/XSN 으로/JKB 볼/NNG 때/NNG 만족스럽/VA 습니다/EF ./SF
-오늘/MAG 물건/NNG 받/VV 자마자/EC 윈도우/NNP 깔/VV 고/EC 죙일/NNG 패치/NNG 하/XSV 았/EP 네요/EF ./SF
-SSD/NNP 를/JKO 쓰/VV ᆫ/ETM 적/NNB 이/JKS 없/VA 어서/EC 부팅속도/NNP 가/JKS 이/MM 정도/NNG 로/JKB 빠르/VA ᆫ/ETM 적/NNB 이/JKS 없/VA 었/EP 네요/EF ./SF
-첨/NNG 에/JKB 그래픽/NNG 드라이버/NNG 설치/NNG 가/JKS 안/NNG 되/XSV 어서/EC 고생/NNG 하/XSV 았/EP 는데/EC 윈도우 10/NNP 버전/NNG 이/JKS RS/SL 2/SN 이상/NNG 되/XSV 어야/EC 설치/NNG 되/XSV ᆫ다고/EC 하/VX 네요/EF ;/SP ;/SP
-아직/MAG 게임/NNG 같/VA 은걸/EC 돌리/VV 어/EC 보/VX 지/EC 못하/VX 아서/EC 게임/NNG 성능/NNG 은/JX 체감/NNG 못/NNG 하/XSV 아/EC 보/VX 았/EP 지만/EC
-조만간/MAG 에/JKB 게임/NNG 다/MAG 깔/VV 고/EC VR/SL 중/NNB 하/VV 아/EC 보/VX 아야/EC 하/VX 겠/EP 네요/EF ./SF
-잘/MAG 받/VV 았/EP 고/EC 잘/MAG 쓰/VV 겠/EP 습니다/EF ~/SO
-성능/NNG 대비/NNG 저렴/XR 하/XSA ᆫ/ETM 가격/NNG //SP 가격/NNG 대비/NNG 고사양/NNP ?/SF
-중소기업/NNG 제품군/NNG 과/JC 삼성/NNP 제품/NNG 사이/NNG 에서/JKB 고민/NNG 하/XSV 다가/EC 결국/MAG 삼성/NNP 제품/NNG 을/JKO 구입/NNG 하/XSV 게/EC 되/VV 었/EP 네요/EF ./SF
-중소기업/NNG 제품군/NNG 도/JX 기능/NNG 추가/NNG 하/XSV 면/EC 가격/NNG 이/JKS 비슷/XR 하/XSA ᆫ/ETM 것/NNB 같/VA 습니다/EF ./SF
-게이밍용/NA 제품/NNG 이/VCP 기/ETN ᆫ/JX 하지만/MAJ ,/SP 3/SN d/SL 프로그램/NNG 스터디/NNG 용/XSN 으로/JKB 구매/NNG 하/XSV 아/EC 보/VX 았/EP 습니다/EF ./SF
-데스크/NNG 용/XSN 은/JX 아니/VCN 지만/EC ,/SP 노트북/NNG 이/VCP ᆫ데/EC 아답터/NNG 가/JKS 생각/NNG 보다/JKB 많이/MAG 크/VA 네요/EF ./SF
-다/NNG 들/XSN 고사양/NNP 이/VCP 라서/EC 그렇/VA 다고/EC 하/VV 시/EP 네요/EF ./SF
-휴대용/NNP 은/JX 아니/VCN ᆫ/ETM 것/NNB 로/JKB ../NNP ./SF ㅎ/NNP
-기능/NNG 은/JX 업그레이드/NNG 가능/NNG 하/XSV 다고/EC 하/VV 니/EC 크/VA ᆫ/ETM 문제/NNG 는/JX 없/VA 을/ETM 듯/NNB 하/VX ㅂ니다/EF ./SF
-이제/MAG 열공/NNP 하/XSA 아야/EC 하/VX 겠/EP 네요/EF ./SF ./SF
-5/SN 월달/NNB 아들/NNG 선물/NNG 로/JKB 구입/NNG 하/XSV 게/EC 되/VV 었/EP 습니다/EF ./SF 오버워치/NNP 게임/NNG 을/JKO 해보/VV ᆫ/ETM ㅎ/NNP ㅜ/NNP PC/SL 방/NNP 컴퓨터/NNG 보다/MAG 훨씬/MAG 사양/NNG 이/JKS 좋/VA 고/EC ,/SP 성능/NNG 도/JX 뛰/VV 어/EC 나서/VV 어/EC 너무/MAG 좋/VA 다고/EC 하/VV 았/EP 습니다/EF ./SF 이렇게/MAG 좋/VA 은/ETM 가격/NNG 에/JKB 삼성/NNP 노트북/NNG 을/JKO 살수/NNP 있/VV 으니/EC 너무/MAG 좋/VA 습니다/EC ^^/NNP
-디자인/NNG 은/JX 만족스럽/VA 습니다/EF ./SF 1060/SN 이/NR 탑재/NNG 되/XSV ᆫ/ETM 다른/MM 회사/NNG 제품/NNG 들/XSN 에/JKB 비하/VV 아/EC 너무/MAG 화려/XR 하/XSA 지/EC 않/VX 고/EC 깔끔/XR 하/XSA ᆫ/ETM 느낌/NNG 이/VCP ㅂ니다/EF ./SF
-사진/NNG 에서/JKB 보/VV 다시피/EC 키보드/NNG 하/VV 단/ETM 빨간색/NNG 조명/NNG 도/JX 옆/NNG 에서/JKB 보/VV 지/EC 않/VX 으면/EC 켜/VV 어/EC 지/VX 어/EC 있/VX 는지/EC 잘/MAG 느껴지/VV 지/EC 않/VX 습니다/EF ./SF
-발열/NNG 문제/NNG 가/JKS 좀/MAG 제기/NNG 되/XSV ᆫ/ETM 것/NNB 같/VA 던데/EC ,/SP 아직/MAG 까지/JX 는/JX 양호/NNG 하/XSV ᆫ/ETM 것/NNB 같/VA 아요/EF ./SF
-다른/MM 후기/NNG 에서/JKB 보/VV ᆫ/ETM 것/NNB 처럼/JKB 아답터/NNG 는/JX 많이/MAG 크/VA 네요/EF ./SF
-고사양/NNP 이/VCP 기/ETN 때문/NNB 에/JKB 어쩌/VV ᆯ/ETM 수/NNB 없/VA 겠/EP 지만요/EF ./SF ../NNP
-빠르/VA ᆫ/ETM 배송/NNP 좋/VA 았/EP 고/EC ,/SP 제품/NNG 도/JX 만족/NNG 하/XSV ㅂ니다/EF ./SF
-가격/NNG 도/JX 삼성/NNP 브랜드/NNG 이/VCP 지만/EC 다른/MM 외국/NNG 제품/NNG 에/JKB 비하/VV 아/EC 경쟁력/NNG 이/JKS 있/VX 었/EP 구요/EF ./SF
-중소기업/NNG 노트북/NNG 과/JC 삼성/NNP 노트북/NNG 가격/NNG 비교/NNG 를/JKO 하/VV 다가/EC
-이/MM 제품/NNG 을/JKO 찾/VV 게/EC 되/VV 었/EP 는데/EC 제/NP 가/JKS 원하/VV 는/ETM 사양/NNG 은/JX 16/SN 기가/NNP 램/NNG 에/JKB
-1060/SN 6/SN 기가/NNP i7/NNP ssd/SL +/SW hdd/SL 로/JKB 구하/VV 다/EC 보/VV 니/EC
-다른/MM 회사/NNG 제품/NNG 들/XSN 도/JX 옵션/NNG 을/JKO 추가/NNG 하/VV 아야/EC 하/VV 더라구요/EC
-이/MM 노트북/NNG 도/JX 물론/MAG 그렇/VA 어야/EC 하/VV 았/EP 지만/EC 가격/NNG 차이/NNG 가/JKS 생각/NNG 보다/JKB 나/VV 지/EC 않/VX 았/EP 습니다/EF ./SF
-약/MM 5/SN 만/NR 원/NNB 정도/NNG 그래서/MAJ 대기업/NNG 삼성/NNP 믿/VV 고/EC 구매/NNG 하/VV 었/EP 는데/EC
-배송/NNP 도/JX 빠르/VA 고/EC 정말/MAG 만족도/NNG 가/JKS 높/VA 았/EP 습니다/EF ./SF
-주문/NNG 하/XSV 고/EC 다음날/NNG 수령/NNG 하/XSV 았/EP 습니다/EF ./SF 내용물/NNG 은/JX 본체/NNG ,/SP 아답터/NNG ,/SP 설명서/NNG ,/SP 설치/NNG 드라이버/NNG CD/SL (/SS ODD/SL 없/VA 는/ETM 모델/NNG 이/VCP ᆫ데/EC 뜬금없이/MAG ;/SP )/SS 로/JKB 구성/NNG 되/XSV 어/EC 있/VV 고/EC ,/SP 생각/NNG 보다/JKB 크/VA ᆫ/ETM 아답터/NNG 를/JKO 보/VV 고/EC 게이밍/NA 노트북/NNG 이/VCP ㅁ/ETN 을/JKO 실감/NNG 하/XSV 았/EP 습니다/EF ./SF
-배송/NNP 도/JX 빠르/VA 게/EC 잘/MAG 오/VX 고 성능/NNP 도/JX 좋/VA 습니다/EC
-게이밍/NA 노트북/NNG 고르/VV 던/ETM 중/NNB 에/JKB 일단/MAG 스펙/NNP 대비/NNG 저렴/XR 하/XSA ᆫ/ETM 가격/NNG 에/JKB 서비스/NNG 좋/VA 은/ETM 삼성/NNP 제품/NNG 이/VCP 라/EC 두/MM 번/NNB 생각/NNG 없이/MAG 바로/MAG 구매/NNG 하/VV 었/EP 습니다/EF ./SF 윈도우/NNP 설치/NNG 도/JX 빠르/VA 고/EC 일단/MAG 은/JX 속도감/NNG 에/JKB 만족/NNG 하/VV 고/EC 있/VX 습니다/EF ./SF 다만/MAG 아답터/NNG 가/JKS 무지/MAG 막/VV 지/EC 하/VX 게/EC 크/VA 다는/ETM 것/NNB ../NNP ../NNP ../NNP ㅜ/NNP ./SF ㅜ/NNP 무게/NNG 도/JX 장난/NNG 아니/VCN ᄆ/ETN 디자인/NNG 및/MAG 성능/NNG 은/JX 아직/MAG 까지/JX 만족스럽/VA 지만/EC 정말/MAG 어떻게/MAG 이런/MM 엄청나/VA 게/EC 크/VA ᆫ/ETM (/SS 아답터/NNG 만/JX 놓/VX 고/EC 무엇/NP 에/JKB 쓰/VV 는/ETM 아답터/NNG 이/VCP 냐고/EC 물어보/VV 면/EC 아무/NP 도/JX 노트북/NNG 아답터/NNG 이/VCP 라고/EC 안/MAG 하/VV ᆯ듯/EC ㅎㅎㅎ/NNP )/SS 아답터/NNG 를/JKO 만들/VV 었/EP 는지/EC 가/JKS 좀/MAG 그렇/VA 네요/EF ./SF ../NNP ./SF 나머지/NNG 는/JX 아직/MAG 까지/JX 모두/MAG 만족/NNG 하/VX ㅂ니다/EF ./SF
-한성/NNP 과/JC 삼성/NNP 을/JKO 고민/NNG 하/XSV 다가/EC 삼성/NNP 을/JKO 사/VV 게/EC 되/VX 었/EP 는데/EC 배송/NNP 속도/NNG 도/JX 좋/VA 고/EC 노트북/NNG 외형/NNG 도/JX 마음/NNG 에/JKB 들/VV 어요/EF ./SF
-처음/NNG 쓰/VV 어/EC 보/VX 는/ETM 게임용/NNP 이/VCP 라/EC 어떻/VA ᆯ지/EC 는/JX 모르/VV 겠/EP 지만/EC 옵션/NNG 이/JKS 좋/VA 은/ETM 것/NNB 같/VA 아요/EF ./SF
-잘/MAG 쓰/VV 겠/EP 습니다/EF ./SF 많이/MAG 파/VV 세요/EF ./SF
-어제/MAG 직접/MAG 방문수령/NNP 하/XSV 았/EP 고/EC 마우스/NNG 도/JX 함께/MAG 받/VV 았/EP 습니다/EF ./SF 참고/NNG 로/JKB 마우스/NNG 는/JX 유선/NNG 이/VCP ㅂ니다/EF ./SF
-게임용/NNP 첨사/NNG 보/VV 아서/EC 잘/MAG 모르/VV 지만/EC 아래/NNG 구멍/NNG 도/JX 슝/MAG 슝/MAG 뚫리/VV 어/EC 있/VX 어/EC 열/NNG 이/JKS 잘/MAG 빠져나가/VV ᆯ듯/EC 하/VX ㅂ니다/EF ./SF gtx/SL 1060/SN 3/SN 기가/NNP 로/JKB 도/JX 배그/NNP 돌리/VV ᆫ다던데/EC 잘/MAG 돌아가/VV ᆯ듯/EC 하/VX ㅂ니다/EF ./SF 마우스패드/NNP 키보드/NNG 에/JKB 불/NNG 도/JX 들어오/VV 고/EC 야간/NNG 에/JKB 도/JX 불/NNG 끄/VV 고/EC 하/VX 아도/EC 무리/NNG 없/VA 을/ETM 듯/NNB 하/XSA 네요/EC 잘/MAG 쓰/VV ㄹ게요/EF !/SF ^^/NNP
-대학교/NNG 에/JKB 입학/NNG 하/XSV 아/EC 아르바이트/NNG 하/XSV 면서/EC 모으/VV ᆫ/ETM 돈/NNG 으로/JKB 오랜/MM 기가/NNP ㄴ/JX 고민/NNG 하/XSV 고/EC 결정/NNG 하/XSV 아/EC 구매/NNG 하/XSV 았/EP 는데/EC 디자인/NNG 도/JX 맘/NNG 에/JKB 들/XSN 고 성능/NNP 도/JX 맘/NNG 에/JKB 들/VV 었/EP 습니다/EF ./SF 고사양/NNP 의/JKG 게임/NNG 도/JX 문제없이/MAG 잘/MAG 돌아가/VV 고/EC 3/SN D/SL 렌더링/NNG 을/JKO 하/VV ᆯ/ETM 때/NNG 도/JX 문제/NNG 가/JKS 없/VA 어서/EC 매우/MAG 만족/NNG 하/XSV ㅂ니다/EF ./SF 좋/VA 은/ETM 상품/NNG 빠르/VA 게/EC 배송/NNP 하/XSA 어/EC 주/VX 시/EP 어서/EC 감사합니다/IC ./SF 마우스/NNG 도/JX 엄청/MAG 좋/VA 아요/EC ㅎ/NNP
-삼성/NNP 제품/NNG 에/JKB 이렇게/MAG 가격/NNG 및/MAG 성능/NNG 으로/JKB 만족/NNG 하/XSV 는/ETM 제품/NNG 이/VCP !/EF !/SF !/SF
-잘/MAG 사용/NNG 하/XSV 고/EC 있/VV 습니다/EC ../NNP
-여러/MM 제품/NNG 고민/NNG 하/VV 다가/EC 성능/NNG 품질/NNG AS/SL 등/NNB 여러/MM 가지/NNB 관점/NNG 에서/JKB 보/VV 니/EC 삼성/NNP 제품/NNG 이/JKS 제일/MAG 낳/VV 은/ETM 것/NNB 같/VA 아서/EC 고르/VV 아서/EC 요/NNP 선택/NNG 하/VV 아서/EC 사용/NNG 하/VV 니/EC 아주/MAG 잘/MAG 돌/VV 아/EC 가/VV ㅂ니다/EF ./SF 저/NP 는/JX 남자/NNG 이/VCP 라서/EC 그렇/VA ᆫ지/EC 생각/NNG 보다/JKB 무겁/VA 지/EC 안/VV 습니다/EF ./SF 저녁/NNG 에/JKB 게임/NNG 잘/MAG 돌/VV 아/EC 갈/VV 듯/EC 하/VX ㅂ니다/EF ./SF
-원동/NNP ㅜ/NNP 프리/NNG 제품/NNG 이/VCP 라/EC 윈도우10/NNP 설치/NNG 하/XSV ᆯ/ETM 때/NNG 좀/MAG 버벅/MAG 거리/VV 었/EP 지만/EC
-윈도우/NNP 설치/NNG ㅎ/NNP ㅜ/NNP 삼성/NNP 드라이버/NNG 를/JKO 모두/NNG 설치/NNG 를/JKO 하니/NNP 화질/NNG 이나/JC 성능/NNG 모두/NNG 만족/NNG 하/XSV ㅂ니다/EF
-게임용/NNP 이/VCP 라/EC 그러/VV ᆫ지/EC 전원/NNG 아답터/NNG 가/JKS 엄청/MAG 크/VA 네요/EC ㅋ/NNP
-첫/MM 게이밍노트북/NA 구매/NNG 이/VCP 라/EC 정말/MAG 많/VA 은/ETM 제품/NNG 을/JKO 찾아보/VV 았/EP 지만/EC
-이/MM 노/XPN 특/XPN 북/NNP 이/JKS 딱/MAG 맞/VV 는/ETM 느낌/NNG 이/VCP 다/EC HDD/SL 장착/NNG 을/JKO 위하/VV 아서/EC
-시/NNG 게이트/NNG 바라/VV ㅋ/NNP ㅜ/NNP 다/JX 1TB/NNP 별/NNG 도로/NNG 구매/NNG 하/XSV 아서/EC 삼성전자/NNP 서비스/NNG 가/VV 니/EC
-10/SN 분/NNB 도/JX 걸리/VV 지/EC 않/VX 고/EC 친절/NNG 하/XSV ᆯ게/EC 설치/NNG 하/XSV 아/EC 주/VX 었/EP 다/EC RAM/SL 이/VCP ᆫ/ETM 8/SN 기가/NNP 라/NNP 부족/NNG 하/XSV ᆫ/ETM 느낌/NNG 이/XSN 들/XSN 이/VCP 지만/EC 조만간/MAG 램/NNG 값/NNG 이/JKS 하향/NNG 되/XSV 고/EC
-별도/NNG 구매/NNG 하/XSV 아서/EC 장착/NNG 하/XSV ᆯ/ETM 예정/NNG 이/VCP 라/EC 별걱정/NNG 없/VA 는/ETM 듯/NNB 하/XSA 다/EC
-게이밍노트북/NA 고민/NNG 하/XSV ᆫ다면/EC 이/MM 제품/NNG 이/JKS 스탠다드/NNG 하/XSV ᆫ/ETM 기준/NNG 은/JX 제시/NNG 하/XSV 아/EC 주/VX ᆯ/ETM 것/NNB 으로/JKB 판단/NNG 되/XSV ᆫ다/EC
-대학/NNG 을/JKO 입학/NNG 하/XSV ᆫ/ETM 아들/NNG 을/JKO 위하/VV 아/EC 구매/NNG 하/XSV 려고/EC 일주일간/NNG 비교/NNG 분석/NNG 을/JKO 하/VV 아서/EC 구매/NNG 결정/NNG 하/XSV 게/EC 되/VV 었/EP 네요/EF
-무엇/NP 보다/JKB 아들/NNG 의/JKG 의견/NNG 을/JKO 존중/NNG 하/XSV 아서/EC 구매/NNG 결정/NNG 하/XSV 아서/EC 기쁘/VA 고/EC ,/SP
-합리/NNG 적/XSN 인/NNP 가격/NNG 에/JKB 성능/NNG 좋/VA 은/ETM 노트북/NNG 을/JKO 구매/NNG 하/XSV 게/EC 되/VV 어/EC 마음/NNG 이/JKS 흐뭇/XR 하/XSA ㅂ니다/EF ./SF
-아들/NNG 은/JX 입/NNG 이/JKS 귀/NNG 에/JKB 걸리/VV 어/EC 있/VV 네요/EC ~/SO ^^/NNP */SW
-진짜/MAG 배송/NNP 너무/MAG 빠르/VA 아서/EC 좋/VA 아요/EF !/SF !/SF 그리고/MAJ 제품/NNG 도/JX 너무/MAG 마음/NNG 에/JKB 들/VV 어요/EC ㅠㅠㅠ/NNP 첫/MM 노트북/NNG 이/VCP ᆫ데/EC 고민/NNG 도/JX 많이/MAG 하/XSV 았/EP 는데/EC 진짜/MAG 잘/MAG 산/NNG 것/NNB 같/VA 아요/EF !/SF !/SF 마우스/NNG 도/JX 같이/MAG 받/VV 았/EP 는데/EC 너무/MAG 이쁘/VA 고/EC 게임용/NNP 으로/JKB 완벽/NNG 하/XSV 고/EC 영상/NNG 편집/NNG 이제/MAG 잘/MAG 배우/VV 어서/EC 유용/XR 하/XSA 게/EC 쓰/VV ㄹ려구요/EF !/SF !/SF 감사합니다/IC !/SF 번창/NNG 하/XSV 세요/EF !/SF !/SF
-우선/MAG 빠르/VA ᆫ/ETM 배송/NNP 감사드리/VV ㅂ니다/EF ./SF
-배틀/NNG 그라운드/NNG 용/NNG 으로/JKB 살/VV ᆫ/ETM 노트북/NNG 이/VCP ᆫ데/EC ../NNP
-일단/MAG 윈도우/NNP 를/JKO 설치/NNG 하/XSV 고/EC 테스트/NNG 하/XSV 아/EC 보/VX 아야/EC 하/VX 겠/EP 죠/EF ./SF 속도/NNG 는/JX 장난/NNG 아니/VCN 게/EC 빠르/VA 네요/EC ㅋㅋ/NNP
-박스/NNG 는/JX 저렇게/MAG 생기/VV 었/EP 고/EC 무엇/NP 이/VCP ᆫ가/EC 발열/NNG 도/JX 심하/VA 지/EC 않/VX 을/ETM 것/NNB 같/VA 은/ETM 비주얼/NNG 이/VCP 네요/EC
-쿨러/NNG 소리/NNG 가/JKS 조금/MAG 시원/XR 하/XSA 게/EC 나/VV 는/ETM 듯/NNB 하/XSA 고/EF ./SF ../NNP 뭐/NP 큰마음/NNG 먹/VV 고/EC 구매/NNG 하/XSV 았/EP 으니/EC 오래오래/MAG 쓰/VV 어야겠/EP 네요/EF ./SF
-일단/MAG 은/JX 윈도우10/NNP usb/SL 가/JKS 불량/NNG 이/VCP 어/EC 오/VX 아서/EC 급/NNG 한마음/NNG 에/JKB 삼성/NNP 센타/NNG 에서/JKB 유상/NNG 으로/JKB
-윈도우/NNP 깔/VV 고/EC 오/VV 았/EP 는데요/EC 일/NNG 담/NNG 상당히/MAG 빠르/VA 고/EF !/SF !/SF !/SF 배그/NNP 를/JKO 상/NNG 옵/EP 으로/EC 돌리/VV 어/EC 보/VX 았/EP 는데/EC 아주/MAG 쾌적/XR 하/XSA 게/EC 돌아가/VV 네요/EC 발열/NNG 은/JX 좀/MAG 있/VV 어요/EC 좀/MAG 더/MAG 지켜보/VV 면서/EC 확인/NNG 을/JKO 더/MAG 하/VV 아/EC 보/VX 아야/EC 하/VV 겠/EP 으나/EC 디자인/NNG 이나/JC 뭐/NP 만족/NNG 하/XSV 아요/EC
-gtx/SL 1060/SN 에/JKB 16/SN 기가/NNP 램/NNP 으로/JKB 는/JX 배그/NNP 상급/NNG 옵/EP 돌리/VV 는게/EC 힘들/VA 지/EC 안/VV 을까/EC 하/VX 는/ETM 생각/NNG 도/NNG 하/XSV 았/EP 는데/EC 잘/MAG 돌아가/VV 고/EC 5/SN g/SL 와이파이/NNP 로/JKB 도/JX 일단/MAG 은/JX 돌아가/VV 요/EC 버벅/XR 일/NNP 거란/NNP 생각/NNG 을/JKO 무안/NNG 하/XSV 게/EC 하/VX 더군요/EC
-게이밍/NA 노트/NNG 를/JKO 살/VV 려고/EC 여기저기/NNG 알아보/VV 다가/EC ,/SP 가격/NNG 여러/MM 곳/NNG 따지/VV 어/EC 보/VX 고/EC 이/MM 곳/NNG 에서/JKB 사/VV 았/EP 는데/EC 아주/MAG 만족/NNG 하/XSV ㅂ니다/EF ㅎㅎ/NNP ./SF 게이밍/NA 마우스/NNG 도/JX 필요/NNG 하/XSV 았/EP 는데/EC 기간/NNG 내/NP 에/JKB 사/VV 면/EC 주/VX 시/EP 더라구요/EF ~/SO ~/SO 증정/NNG 용/XSN 이/VCP 라고/EC 싸구려/NNG 주/VX 시/EP 지/EC 도/JX 않/VX 고/EC 좋은 것/NNP 주/VX 시/EP 어서/EC 기분/NNG 좋/VA 게/EC 게임/NNG 중/NNB 이/VCP ㅂ니/EP 당/NNP ^^/NNP 게이밍/NA 노트북/NNG 알아보/VV 시/EP 는/ETM 분/NNB 들/XSN 기간/NNG 내/NNB 에/JKB 사/VV 아서/EC 다/NNG 들/XSN 마우스/NNG 받/VV 으/EP 시/EP 어요/EF ~/SO ~/SO ^^/NNP
+삼성전자 Odyssey NT800G5S-XD71A
+큰아이
+고성능
+프로그램
+..
+만족
+무게
+기가
+만족
+번창
+아들
+해
+생각
+마음
+기능
+사양
+게임
+확인
+부팅속도
+설치
+속도
+감탄
+상품
+배송
+굿
+대박
+^^
+고성능
+노트북
+가격
+구입
+만족
+주변
+지인
+추천
+^^
+조카
+대학
+입학
+선물
+구입
+속도
+학과
+디자인
+계열
+램
+기가
+교체
+교체
+하드
+추가
+구입비
+살
+때
+윈도우
+부팅
+단
+무게
+휴대
+백팩
+ㅎ
+으
+이동
+삼성
+제품
+성능
+자체
+추천
+구입
+할인이벤트
+..
+ㅠㅠ
+나머지
+완전
+굿
+굿
+하드
+램
+추가
+스
+디
+하드
+추가
+노트북
+고민
+고심
+끝
+삼성
+노트북
+주문
+배송
+네임
+드
+노트북
+백라이트
+인
+블랙
+감성
+맘
+성능
+자랑
+가성비
+면
+ㅠㅠ
+고심
+끝
+산
+사용
+삼성
+리뷰
+커뮤니티
+발열
+가격
+말
+걱정
+가격
+쿠폰
+프리도스
+일반
+출고
+생각
+가격
+다
+출고
+기준
+생각
+발열
+고사양 게임
+손가락
+감도
+SSD
+굿
+굿
+삼성
+노트북
+처음
+마
+감도
+사양
+제품
+고민
+노트북
+구매
+목적
+게임
+그래픽
+작업
+구매
+결정
+삼성전자
+노트북
+작업
+진행
+성능
+..
+삼성
+노트북
+사양
+게임
+영상
+강추
+^^
+고민
+ㅎ
+ㅜ
+기가
+구매
+배송
+가격
+배송
+감사
+i7
+SSD
+1TB
+정도
+노트북
+부족
+사양
+삼성
+노트북
+사서
+맘
+마음
+가격
+행사
+곳
+비교
+때
+배송
+금요일
+출발
+토요일
+도착
+걱정
+아침
+도착
+대박
+전체
+마음
+^^
+번창
+^^
+배송
+노트북
+밖
+스
+개봉
+설레임
+..
+ㅠ
+ㅠ
+우선
+윈도
+결과
+..
+뮤직비디오
+소리
+..
+..
+배그
+^^
+쿨링
+패드
+필수
+시간
+윈도우
+배송
+포장
+안전하게
+처음
+기대
+ㅋ
+번창
+노트북
+고장
+서
+삼성
+구입
+삼성
+기대감
+배송
+배송
+포장
+걱정
+안
+발열
+사용
+게임
+성능
+맘
+드
+달
+전쯤
+본체
+노트북
+고민
+삼성
+노트북
+결정
+^^
+사양
+가격
+마음
+배송
+박스
+백마
+제품
+포장
+ㅋ
+전원
+역
+리눅스
+윈도우10
+설치
+ㅎ
+ㅜ
+배틀
+그라운드
+구동
+삼성
+홈피
+드라이버
+소프트웨어
+업글
+그래픽
+확인
+인텔
+내장
+그래픽
+두개
+평시
+인텔
+사용
+게임
+동시
+을
+사용
+패스
+배틀
+그라운드
+구동
+김
+현상
+시간
+정도
+사용
+노트북
+밑판
+나무
+바닥
+열
+총평
+생각
+성능
+가성비
+배송
+만족
+색상
+다양
+무게
+부담
+암
+쪼록
+고장
+사용
+상품
+고민
+카드
+인
+싸게
+배송
+삼성
+노트북
+필요
+신분
+강추
+사양
+고민
+비교
+구매
+부팅속도
+외관
+선택
+만족
+대박
+세요
+브랜드
+사양
+비교
+가격
+차이
+스펙
+포장
+배송
+주문
+다음날
+터치감
+속도
+만족
+소음
+..
+아
+답
+기가
+제
+사이즈
+밧데리
+외부
+일
+다행
+만족
+^^
+추천
+삼성
+오디세이
+요
+발열
+걱정
+게임
+정
+유지
+괘
+찬
+은거
+이벤트
+키보드
+부탁
+제품
+이상
+배송
+디자인
+부팅속도
+영상
+재생
+마음
+게임
+실행
+안
+평소
+쿨러
+소리
+어댑터
+이유
+전
+컴퓨터
+말썽
+이번
+삼성
+성격
+급
+한편
+배송
+신경
+배송
+하루
+부팅 속도
+노트북
+생각
+생각
+무광
+블랙
+느낌
+아들
+고민
+끝
+삼성
+오디세이
+결정
+주문
+매장
+본
+ㅎㅎ
+마음
+구매
+마음
+^^
+아답터
+배송
+후기
+고민
+배송
+휴대용
+산
+사이즈
+이것저것
+설치
+전체
+터치 감
+노트북
+살
+때
+제품
+비교
+가격
+대비
+제품
+생각
+구매
+오토
+캐드
+고사양
+노트북
+구매
+배송
+파손
+걱정
+걱정
+짓
+두
+툼
+스티로폼
+안
+파손
+방지
+배송
+체계
+램
+확장
+구매
+선택
+인
+오토
+캐드
+무리
+디자인
+블랙
+래드
+조화
+심플
+마음
+벽돌
+벽돌
+무겁게
+대체
+만족
+고민
+고민
+제품
+게임용
+노트북
+^^
+배송
+착한가격
+성능
+삼성
+노트북
+선택
+강
+추
+강추
+캐드
+게임용
+노트북
+품질
+삼성
+노트북
+구매
+속도
+추천
+배송
+착한가격
+만족
+동영상
+작업
+가능
+조
+ㅎ
+노트북
+제품
+이모저모
+구매
+제품
+배그
+정
+삼성
+제품
+가격
+구매
+컴맹
+서비스
+대기업제품
+맹
+ㅜ
+만족
+롤
+실행
+다운로드
+시간
+실행
+도중
+방
+컴퓨터
+정도
+화질
+안
+..
+배송
+안전
+처음
+고민
+끝
+후회
+안
+만족도
+배송
+고 성능
+노트북
+성능
+램
+기가
+그래픽카드
+i7
+인
+최신
+컴퓨터
+구입
+글
+키보드
+노트북
+키보드
+키보드
+대신
+필요
+헤드셋
+1
+ㅎㅎ
+다음
+컴퓨터
+때
+사이트
+제품
+가격
+완전
+만족
+배송
+최고
+성능
+게임
+때
+성능
+만족
+제품
+배송
+수고
+노트북
+장만
+며칠
+동안
+고심
+주문
+ㅎㅎ
+이상
+액정필름
+외부
+필름
+사진
+이상
+제품
+만족
+선물
+구입
+건대
+윈도
+고장
+획
+인
+기분
+시간
+교환
+친구
+부탁
+제품
+전
+한번
+검사
+일
+텐
+대요
+이상
+업무용
+껀
+고장
+삼성
+제품
+가격
+성능
+만족
+제품
+사용
+..
+물건
+윈도우
+죙일
+패치
+SSD
+부팅속도
+정도
+첨
+그래픽
+드라이버
+설치
+안
+고생
+윈도우 10
+버전
+이상
+설치
+게임
+게임
+성능
+체감
+못
+조만
+게임
+사용
+ㅜ
+만족
+소리
+가성비
+성능
+좋은것
+충전
+어댑터
+크기
+좀
+크기
+원동
+ㅜ
+프리
+제품
+윈도우10
+설치
+때
+윈도우
+설치
+ㅎ
+ㅜ
+삼성
+드라이버
+모두
+설치
+하니
+화질
+성능
+모두
+만족
+게임용
+전원
+아답터
+ㅋ
+성능
+대비
+가격
+가격
+대비
+고사양
+중소기업
+제품군
+삼성
+제품
+사이
+고민
+삼성
+제품
+구입
+중소기업
+제품군
+기능
+추가
+가격
+제품
+프로그램
+스터디
+구매
+데스크
+노트북
+아답터
+생각
+다
+고사양
+휴대용
+..
+ㅎ
+기능
+업그레이드
+가능
+문제
+열공
+디자인
+탑재
+회사
+제품
+느낌
+사진
+키보드
+빨간색
+조명
+옆
+발열
+문제
+제기
+양호
+후기
+아답터
+고사양
+..
+배송
+제품
+만족
+가격
+삼성
+브랜드
+외국
+제품
+경쟁력
+방문수령
+마우스
+참고
+마우스
+유선
+게임용
+첨사
+아래
+구멍
+열
+기가
+배그
+마우스패드
+키보드
+불
+야간
+불
+무리
+^^
+고민
+고민
+구매
+아들
+게임
+노트북
+노래
+큰맘
+선택
+외관
+고 성능
+최상
+선택
+오버워치
+아들
+최고
+노트북
+가격
+추천
+한성
+삼성
+고민
+삼성
+배송
+속도
+노트북
+외형
+마음
+처음
+게임용
+옵션
+성능
+업무용
+노트북
+필요
+아들
+데스크탑
+게임용
+사주
+약속
+고민
+아
+고성능
+경제
+표
+발열
+문제
+제기
+삼성
+오디세이
+발열
+말
+민
+끝
+대한민국
+인
+그래픽
+기가
+i7
+7세대
+SSD
+기가
+메모리
+하단
+듀얼
+쿨러
+현재
+만족
+대학생
+노트북
+가격
+대비
+성능
+중소업체
+노트북
+결정
+옥션
+삼성
+노트북
+검색
+가격
+대비
+성능
+마음
+구매
+아들
+만족
+사용
+중소기업
+노트북
+삼성
+노트북
+가격
+비교
+제품
+사양
+기가
+램
+기가
+i7
+회사
+제품
+옵션
+추가
+노트북
+가격
+차이
+생각
+정도
+대기업
+삼성
+구매
+배송
+만족도
+구성품
+어댑터
+본체
+드라이버
+설치
+SSD
+윈도우 10
+설치
+시간
+일반
+하드
+디스크
+비교
+부팅속도
+창
+테스트
+게임
+전체
+만족
+동안
+맥북
+노트북
+고민
+노트북
+사자
+검색
+성능
+비교
+삼성
+배송
+안전하게
+노트북
+사양
+고
+완전
+마음
+노트북
+사용
+포토
+리뷰
+일석이조
+배송
+안전배송
+상품
+번창
+^^
+삼성
+노트북
+사용
+앞
+사용
+가능
+동안
+맥북
+노트북
+고민
+노트북
+검색
+성능
+비교
+삼성
+배송
+안전하게
+노트북
+사양
+완전
+마음
+노트북
+사용
+포토
+리뷰
+일석이조
+배송
+안전배송
+상품
+번창
+^^
+고사양
+성능
+고민
+구매
+제품
+배송
+가격
+착한가격
+삼성
+오딧세이
+게임용
+최고
+선물
+구입
+건대
+윈도
+고장
+획
+인
+기분
+시간
+교환
+친구
+부탁
+제품
+전
+한번
+검사
+일
+텐
+이상
+업무용
+껀
+고장
+사용
+ㅜ
+만족
+소리
+가성비
+성능
+좋은것
+충전
+어댑터
+크기
+좀
+크기
+처음
+룩스
+제품
+인지
+윈도우
+업데이트
+싸게
+사은품
+기간
+고민
+고민
+구매
+아들
+게임
+노트북
+노래
+큰맘
+선택
+외관
+고 성능
+최상
+선택
+오버워치
+아들
+최고
+노트북
+가격
+추천
+삼성
+노트북
+오딧세이
+개봉
+후기
+노트북
+판매
+사람
+인텔
+I7
+메모리
+SSD
+256G
+그래픽
+장착
+게임
+요즘
+주가
+배틀
+그라운드
+오버워치
+허
+ㅋ
+삼성
+노트북
+가격
+인
+측면
+중소
+브랜드
+향후
+측면
+삼성
+제품
+구매
+고객
+최대한
+만족
+제품
+구매
+신
+안심
+구매
+추천
+작업
+사장님
+망설임
+구입
+성능
+업무용
+노트북
+필요
+아들
+데스크탑
+게임용
+사주
+약속
+고민
+고성능
+경제
+표
+발열
+문제
+제기
+망설임
+삼성
+오디세이
+발열
+말
+고민
+끝
+대한민국
+인
+그래픽
+기가
+i7
+7세대
+SSD
+기가
+메모리
+하단
+듀얼
+쿨러
+현재
+만족
+대학생
+노트북
+가격
+대비
+성능
+중소업체
+노트북
+결정
+옥션
+삼성
+노트북
+검색
+가격
+대비
+성능
+마음
+구매
+아들
+만족
+사용
+주문
+용산
+방문수령
+윈도우
+설치
+상품평
+사양
+무게
+생각
+생각
+..
+대신
+생각
+아답터
+당혹
+..
+ㅎㅎ
+전반
+볼
+때
+물건
+윈도우
+죙일
+패치
+SSD
+부팅속도
+정도
+첨
+그래픽
+드라이버
+설치
+안
+고생
+윈도우 10
+버전
+이상
+설치
+게임
+게임
+성능
+체감
+못
+게임
+성능
+대비
+가격
+가격
+대비
+고사양
+중소기업
+제품군
+삼성
+제품
+사이
+고민
+삼성
+제품
+구입
+중소기업
+제품군
+기능
+추가
+가격
+제품
+프로그램
+스터디
+구매
+데스크
+노트북
+아답터
+생각
+다
+고사양
+휴대용
+..
+ㅎ
+기능
+업그레이드
+가능
+문제
+열공
+아들
+선물
+구입
+오버워치
+게임
+ㅎ
+ㅜ
+방
+컴퓨터
+사양
+성능
+가격
+삼성
+노트북
+살수
+^^
+디자인
+탑재
+회사
+제품
+느낌
+사진
+키보드
+빨간색
+조명
+옆
+발열
+문제
+제기
+양호
+후기
+아답터
+고사양
+..
+배송
+제품
+만족
+가격
+삼성
+브랜드
+외국
+제품
+경쟁력
+중소기업
+노트북
+삼성
+노트북
+가격
+비교
+제품
+사양
+기가
+램
+기가
+i7
+회사
+제품
+옵션
+추가
+노트북
+가격
+차이
+생각
+정도
+대기업
+삼성
+구매
+배송
+만족도
+주문
+다음날
+수령
+내용물
+본체
+아답터
+설명서
+설치
+드라이버
+모델
+구성
+생각
+아답터
+노트북
+실감
+배송
+고 성능
+노트북
+스펙
+대비
+가격
+서비스
+삼성
+제품
+생각
+구매
+윈도우
+설치
+속도감
+만족
+아답터
+..
+..
+..
+ㅜ
+ㅜ
+무게
+장난
+디자인
+성능
+아답터
+아답터
+노트북
+아답터
+ㅎㅎㅎ
+아답터
+..
+나머지
+만족
+한성
+삼성
+고민
+삼성
+배송
+속도
+노트북
+외형
+마음
+처음
+게임용
+옵션
+방문수령
+마우스
+참고
+마우스
+유선
+게임용
+첨사
+아래
+구멍
+열
+기가
+배그
+마우스패드
+키보드
+불
+야간
+불
+무리
+^^
+대학교
+입학
+아르바이트
+돈
+기가
+고민
+결정
+구매
+디자인
+맘
+고 성능
+맘
+고사양
+게임
+렌더링
+때
+문제
+만족
+상품
+배송
+마우스
+ㅎ
+삼성
+제품
+가격
+성능
+만족
+제품
+사용
+..
+제품
+고민
+성능
+품질
+관점
+삼성
+제품
+요
+선택
+사용
+남자
+생각
+저녁
+게임
+원동
+ㅜ
+프리
+제품
+윈도우10
+설치
+때
+윈도우
+설치
+ㅎ
+ㅜ
+삼성
+드라이버
+모두
+설치
+하니
+화질
+성능
+모두
+만족
+게임용
+전원
+아답터
+ㅋ
+구매
+제품
+북
+느낌
+장착
+시
+게이트
+ㅋ
+ㅜ
+1TB
+별
+도로
+구매
+삼성전자
+서비스
+친절
+설치
+기가
+라
+부족
+느낌
+램
+값
+하향
+별도
+구매
+장착
+예정
+별걱정
+고민
+제품
+스탠다드
+기준
+제시
+판단
+대학
+입학
+아들
+구매
+일주일간
+비교
+분석
+구매
+결정
+아들
+의견
+존중
+구매
+결정
+합리
+인
+가격
+성능
+노트북
+구매
+마음
+아들
+입
+귀
+^^
+배송
+제품
+마음
+ㅠㅠㅠ
+노트북
+고민
+산
+마우스
+게임용
+완벽
+영상
+편집
+번창
+배송
+배틀
+그라운드
+용
+노트북
+..
+윈도우
+설치
+테스트
+속도
+장난
+ㅋㅋ
+박스
+발열
+비주얼
+쿨러
+소리
+..
+큰마음
+구매
+윈도우10
+불량
+급
+한마음
+삼성
+센타
+유상
+윈도우
+일
+담
+배그
+상
+발열
+확인
+디자인
+만족
+기가
+램
+배그
+상급
+생각
+도
+와이파이
+일
+거란
+생각
+무안
+노트
+여기저기
+가격
+곳
+곳
+만족
+ㅎㅎ
+마우스
+필요
+기간
+증정
+싸구려
+좋은 것
+기분
+게임
+당
+^^
+노트북
+기간
+다
+마우스
+^^
