@@ -12,7 +12,7 @@ public class KomoranFileTest1 {
 		String product = "44.LG전자 그램 2in1 14TD990-GX50K";
 		
 		String inputFilename = "resources/input/" + product + ".txt";
-		String outputFilename = "resources/output/result_" + product + ".txt";
+		String outputFilename = "resources/output/nouns/result_" + product + ".txt";
 		
 		//komoran.analyzeTextFileMorph(inputFilename, outputFilename, 1);
 		//komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);
