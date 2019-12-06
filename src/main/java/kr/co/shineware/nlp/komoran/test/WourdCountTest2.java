@@ -10,7 +10,7 @@ public class WourdCountTest2 {
 		
 		String inputFilename = "resources/output/nouns/result_" + product + ".txt";
 		String outputFilename = "resources/output/count/result_" + product + ".txt";
-		FileUtil.FilemapCount(inputFilename, outputFilename, "UTF-8");
+		//FileUtil.mapCount(inputFilename, outputFilename, "UTF-8");
 		
 	}		
 }
