@@ -2,8 +2,6 @@ package kr.co.shineware.nlp.komoran.test;
 
 import kr.co.shineware.nlp.komoran.core.Komoran;
 import kr.co.shineware.util.common.file.FileUtil;
-
-
 public class KomoranFileTest1 {
 	public static void main(String[] args) throws Exception {
 
@@ -17,10 +15,6 @@ public class KomoranFileTest1 {
 		//komoran.analyzeTextFileMorph(inputFilename, outputFilename, 1);
 		komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);
 		//komoran.analyzeTextFile(inputFilename, outputFilename, 1);
-		//komoran.analyzeTextFileTags(inputFilename, outputFilename, 1, SYMBOL.SS,SYMBOL.ETM);
-		
-		
 		
 		
 	}
-}
