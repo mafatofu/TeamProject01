@@ -20,7 +20,7 @@ public class WordCountTest {
 		String inputFilename = "resources/output/nouns/result_" + product + ".txt";
 		//String outputFilename = "resources/output/count/result_" + product + ".txt";
 		
-		Map<String, Integer> lines = FileUtil.mapCount(inputFilename, "UTF-8");
+		//Map<String, Integer> lines = FileUtil.mapCount(inputFilename, "UTF-8");
         
 //		Value bvc = new Value(lines);
 //        TreeMap<String,Integer>sorted_map = new TreeMap<String,Integer>(bvc);
