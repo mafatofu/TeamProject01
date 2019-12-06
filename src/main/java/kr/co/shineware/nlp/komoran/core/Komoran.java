@@ -149,6 +149,47 @@ public class Komoran implements Cloneable {
         }
         System.out.println("분석완료");
     }
+   
+    //원하는 태그만 뽑아서 문장별로 출력하려는 메서드
+    //여기서는 그냥 result값을 출력만하는 듯??
+    public void analyzeTextTags(String inputFilename, String outputFilename, int thread, String tag, String... str) {
+
+        try {
+        	//line별로 하나씩 받아서 List에 넣음.
+            List<String> lines = FileUtil.load2List(inputFilename);
+
+            BufferedWriter bw = new BufferedWriter(
+                    (new OutputStreamWriter(new FileOutputStream(outputFilename), StandardCharsets.UTF_8)));
+            List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
+            
+            //lines에 저장된 input정보를 읽어서 
+            for (String line : lines) {
+            	//komoranCallable(komoran, input정보) 로 komoran 객체와 input정보 넣기
+            	//생성자를 만드면 넣어짐.
+                KomoranCallable komoranCallable = new KomoranCallable(this, line);
+                komoranResultList.add(executor.submit(komoranCallable));
+                
+            }
+            //한줄씩 결과물이 저장되어 있는데 그걸 한줄씩 출력하는 것?
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
+                KomoranResult komoranResult = komoranResultFuture.get();
+               //PlainText는 그냥 String을 반환함
+                String result = komoranResult.getPlainTextTags(Arrays.asList(str));
+                if(result.contains(tag)) {
+	                bw.write(result);
+	                bw.newLine();
+	                bw.newLine();
+                }
+            }
+            bw.close();
+            executor.shutdown();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("분석완료");
+    }
     
     
     //Nouns만 파일 출력
@@ -173,6 +214,7 @@ public class Komoran implements Cloneable {
 
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
+                //getNouns의 리턴값은 List<String> morphList임. 
                 for(String komoranR : komoranResult.getNouns()) {
                 	bw.write(komoranR);
                 	bw.newLine();

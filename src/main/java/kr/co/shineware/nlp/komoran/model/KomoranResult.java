@@ -102,6 +102,17 @@ public class KomoranResult {
         return result.toString().trim();
     }
     
+    public String getPlainTextTags(Collection<String> targetPosCollection) {
+        StringBuilder result = new StringBuilder();
+        Set<String> targetPosSet = new HashSet<>(targetPosCollection);
+        for (LatticeNode latticeNode : resultNodeList) {
+        	if (targetPosSet.contains(latticeNode.getTag())) {
+        		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
+            }
+        }
+        return result.toString().trim();
+    }
+    
     
     public String getPlainMorph() {
         StringBuilder result = new StringBuilder();
