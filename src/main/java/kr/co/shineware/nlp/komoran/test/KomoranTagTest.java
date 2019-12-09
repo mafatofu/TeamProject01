@@ -17,5 +17,7 @@ public class KomoranTagTest {
 		komoran.analyzeTextTags(inputFilename, outputFilename, 1, "배송", 
 			"VA", "MAG", "VV", "ETM", "ETN", "SN", "NNB", "JX", "JKB", "NNG", "XSV", "EC", "NNP", "XR", "XSA");
 		//komoran.analyzeTextFile(inputFilename, outputFilename, 1);
+		
+		
 	}
 }

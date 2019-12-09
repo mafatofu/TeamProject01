@@ -33,6 +33,8 @@ import kr.co.shineware.nlp.komoran.model.ScoredTag;
 import kr.co.shineware.nlp.komoran.modeler.model.IrregularNode;
 import kr.co.shineware.nlp.komoran.modeler.model.Observation;
 import kr.co.shineware.nlp.komoran.parser.KoreanUnitParser;
+import kr.co.shineware.nlp.komoran.test.KeyWordList;
+import kr.co.shineware.nlp.komoran.test.PNCountVO;
 import kr.co.shineware.nlp.komoran.util.KomoranCallable;
 import kr.co.shineware.util.common.file.FileUtil;
 import kr.co.shineware.util.common.model.Pair;
@@ -149,10 +151,46 @@ public class Komoran implements Cloneable {
         }
         System.out.println("분석완료");
     }
+    
+    //긍정/부정 키워드 카운트
+    public void analyzeTextPN(String inputFilename, String outputFilename, int thread, String keyword) {
+        try {
+            List<String> lines = FileUtil.load2List(inputFilename);
+            BufferedWriter bw = new BufferedWriter(
+                    (new OutputStreamWriter(new FileOutputStream(outputFilename), StandardCharsets.UTF_8)));
+            List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
+            
+            for (String line : lines) {
+                KomoranCallable komoranCallable = new KomoranCallable(this, line);
+                komoranResultList.add(executor.submit(komoranCallable));
+                
+            }
+            PNCountVO result = new PNCountVO();
+            result.setKeyword(keyword);
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
+                KomoranResult komoranResult = komoranResultFuture.get();
+               //PlainText는 그냥 String을 반환함
+                komoranResult.getTagPN(result);
+	            System.out.println(result.toString());
+	            bw.write(result.toString());
+	            bw.newLine();             	
+            }
+            bw.write("완료");
+            bw.close();
+            executor.shutdown();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("분석완료");
+    }
+    
+    
    
     //원하는 태그만 뽑아서 문장별로 출력하려는 메서드
     //여기서는 그냥 result값을 출력만하는 듯??
-    public void analyzeTextTags(String inputFilename, String outputFilename, int thread, String tag, String... str) {
+    public void analyzeTextTags(String inputFilename, String outputFilename, int thread, String keyword, String... str) {
 
         try {
         	//line별로 하나씩 받아서 List에 넣음.
@@ -176,7 +214,7 @@ public class Komoran implements Cloneable {
                 KomoranResult komoranResult = komoranResultFuture.get();
                //PlainText는 그냥 String을 반환함
                 String result = komoranResult.getPlainTextTags(Arrays.asList(str));
-                if(result.contains(tag)) {
+                if(result.contains(keyword)) {
 	                bw.write(result);
 	                bw.newLine();
 	                bw.newLine();

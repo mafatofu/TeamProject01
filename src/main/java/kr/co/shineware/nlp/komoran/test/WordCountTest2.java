@@ -2,7 +2,7 @@ package kr.co.shineware.nlp.komoran.test;
 
 import kr.co.shineware.util.common.file.FileUtil;
 
-public class WourdCountTest2 {
+public class WordCountTest2 {
 		
 	public static void main(String[] args) {
 		

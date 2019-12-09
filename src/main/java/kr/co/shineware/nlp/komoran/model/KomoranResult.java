@@ -3,6 +3,8 @@ package kr.co.shineware.nlp.komoran.model;
 import kr.co.shineware.nlp.komoran.constant.SYMBOL;
 import kr.co.shineware.nlp.komoran.core.model.LatticeNode;
 import kr.co.shineware.nlp.komoran.parser.KoreanUnitParser;
+import kr.co.shineware.nlp.komoran.test.KeyWordList;
+import kr.co.shineware.nlp.komoran.test.PNCountVO;
 import kr.co.shineware.util.common.model.Pair;
 
 import java.util.*;
@@ -102,6 +104,35 @@ public class KomoranResult {
         return result.toString().trim();
     }
     
+    //원하는 단어의 긍정/부정 단어 리턴
+    public void getTagPN(PNCountVO vo) {
+    	StringBuilder result = new StringBuilder();
+    	
+    	int chk = 0;
+    	for (LatticeNode latticeNode : resultNodeList) {
+    		if(parser.combine(latticeNode.getMorphTag().getMorph()).equals("배송")) {
+    			chk = 1;
+    		}
+    	}
+    	if(chk == 1) {
+    		System.out.println("긍정부정 시작");
+    		for (LatticeNode latticeNode : resultNodeList) {
+            	if (KeyWordList.shipping_positive.contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
+            		System.out.println("긍정");
+            		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
+            		System.out.println(result);
+            		vo.setPositive(vo.getPositive()+1);
+            	}else if (KeyWordList.shipping_negative.contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
+            		System.out.println("부정");
+            		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
+            		System.out.println(result);
+            		vo.setNegative(vo.getNegative()+1);
+            	}
+            }
+    	}
+    } 
+    
+    //원하는 태그별로 값 출력
     public String getPlainTextTags(Collection<String> targetPosCollection) {
         StringBuilder result = new StringBuilder();
         Set<String> targetPosSet = new HashSet<>(targetPosCollection);
