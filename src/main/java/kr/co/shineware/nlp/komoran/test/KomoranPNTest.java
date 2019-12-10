@@ -12,6 +12,7 @@ public class KomoranPNTest {
 		String inputFilename = "resources/input/" + product + ".txt";
 		String outputFilename = "resources/output/result_" + product + ".txt";
 		komoran.analyzeTextPN(inputFilename, outputFilename, 1, "shipping");
+
 		
 	    System.out.println("============긍정=============");  
 		for (String key : CountPNTest.phashmap.keySet()) {
