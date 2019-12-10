@@ -50,14 +50,13 @@ public class KeyWordList {
    public static final List<String>  display_negative = new ArrayList<String>(Arrays.asList());
 
 
-
    //무게키워드 긍정/부정 단어 리스트
    public static final List<String>  weight_positive = new ArrayList<String>
    (Arrays.asList("가볍","가볍고","적당"));
    public static final List<String>  weight_negative = new ArrayList<String>
    (Arrays.asList("가볍지","무겁","빼고","약간","더"));
 
-   //화면키워드 긍정/부정 단어 리스트
+   //속도키워드 긍정/부정 단어 리스트
    public static final List<String>  speed_positive = new ArrayList<String>
    (Arrays.asList("신세계", "감동", "빠르","상상","속도에","빠르고","환상적","감탄"));
    public static final List<String>  speed_negative = new ArrayList<String>
