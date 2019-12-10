@@ -113,7 +113,7 @@ public class KomoranResult {
         String word;
     	int chk = 0;
     	for (LatticeNode latticeNode : resultNodeList) {
-    		if(parser.combine(latticeNode.getMorphTag().getMorph()).equals("배송")) {
+    		if(parser.combine(latticeNode.getMorphTag().getMorph()).equals(vo.getKey())) {
     			chk = 1;
     		}
     	}

@@ -56,7 +56,7 @@ public class KeyWordList {
    public static final List<String>  weight_negative = new ArrayList<String>
    (Arrays.asList(""));
    
-   //화면키워드 긍정/부정 단어 리스트
+   //속도키워드 긍정/부정 단어 리스트
    public static final List<String>  speed_positive = new ArrayList<String>
    (Arrays.asList(""));
    public static final List<String>  speed_negative = new ArrayList<String>
