@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class KeyWordList {
+	
    //배송키워드 긍정/부정 단어 리스트
    public static final List<String> shipping_positive = new ArrayList<String>
    (Arrays.asList("꼼꼼", "빠르", "안전하게", "바로", "예상", "무료", "하루", "당일", "빨리", "다음날"));
@@ -34,7 +35,7 @@ public class KeyWordList {
    
    //가성비키워드 긍정/부정 단어 리스트
    public static final List<String>  cost_positive = new ArrayList<String>
-   (Arrays.asList("","가성비로 유명한","가성비 노트북","가성비 최고","가성비 고려","가성비 좋습니다","착한가격","착한 가격",
+   (Arrays.asList("가성비로 유명한","가성비 노트북","가성비 최고","가성비 고려","가성비 좋습니다","착한가격","착한 가격",
          "탁월","추천","훌륭","괜찮","금액","대비", "가격"));
    public static final List<String>  cost_negative = new ArrayList<String>();
    

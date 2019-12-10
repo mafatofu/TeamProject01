@@ -228,7 +228,7 @@ public class Komoran implements Cloneable {
                 KomoranResult komoranResult = komoranResultFuture.get();
                //PlainText는 그냥 String을 반환함
                 String result = komoranResult.getPlainTextTags(Arrays.asList(str));
-                if(result.contains(keyword)) {
+                if(result.contains(keyword))  {
 	                bw.write(result);
 	                bw.newLine();
 	                bw.newLine();
