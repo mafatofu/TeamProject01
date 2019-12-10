@@ -7,6 +7,7 @@ import java.util.List;
 public class KeyWordList {
 	
 	public List<String> positiveList(String keyword){
+
 		switch (keyword) {
 		case "shipping": return shipping_positive;
 		case "gift": return gift_positive;
@@ -61,11 +62,11 @@ public class KeyWordList {
    public static final List<String>  window_positive = new ArrayList<String>
    (Arrays.asList("윈도우10","설치","깔리","탑재","기본으로","윈도우","정품","깔","깔리","활성화","셋팅","기본","문제없이"));
    public static final List<String>  window_negative = new ArrayList<String>
-   (Arrays.asList("욕먹을짓"));
+   (Arrays.asList("욕먹을 짓"));
    
    //가성비키워드 긍정/부정 단어 리스트
    public static final List<String>  cost_positive = new ArrayList<String>
-   (Arrays.asList("","가성비로 유명한","가성비 노트북","가성비 최고","가성비 고려","가성비 좋습니다","착한가격","착한 가격",
+   (Arrays.asList("가성비로 유명한","가성비 노트북","가성비 최고","가성비 고려","가성비 좋습니다","착한가격","착한 가격",
          "탁월","추천","훌륭","괜찮","금액","대비", "가격"));
    public static final List<String>  cost_negative = new ArrayList<String>();
    

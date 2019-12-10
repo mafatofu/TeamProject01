@@ -3,7 +3,7 @@ package kr.co.shineware.nlp.komoran.model;
 import kr.co.shineware.nlp.komoran.constant.SYMBOL;
 import kr.co.shineware.nlp.komoran.core.model.LatticeNode;
 import kr.co.shineware.nlp.komoran.parser.KoreanUnitParser;
-import kr.co.shineware.nlp.komoran.test.CountPNTest;
+import kr.co.shineware.nlp.komoran.test.CountPN;
 import kr.co.shineware.nlp.komoran.test.KeyWordList;
 import kr.co.shineware.nlp.komoran.test.PNCountVO;
 import kr.co.shineware.util.common.model.Pair;
@@ -106,10 +106,9 @@ public class KomoranResult {
     }
     
     //원하는 단어의 긍정/부정 단어 리턴
-    public void getTagPN(PNCountVO vo) {
+    public void getTagPN(PNCountVO vo, CountPN count) {
     	StringBuilder result = new StringBuilder();
     	KeyWordList kl = new KeyWordList();
-    	
     	//CountPNTest의 긍정,부정 해시맵의 키값과 word가 일치할 시, 해당 키값의 value를 1 증가
         String word;
     	int chk = 0;
@@ -127,14 +126,14 @@ public class KomoranResult {
             		vo.setPositive(vo.getPositive()+1);
             		
             		word = parser.combine(latticeNode.getMorphTag().getMorph());
-            		CountPNTest.phashmap.put(word, CountPNTest.phashmap.get(word)+1);
+            		count.phashmap.put(word, count.phashmap.get(word)+1);
             	
             	}else if (kl.negativeList(vo.getKeyword()).contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
             		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
             		System.out.println(result);
             		
             		word = parser.combine(latticeNode.getMorphTag().getMorph());
-                    CountPNTest.nhashmap.put(word, CountPNTest.nhashmap.get(word)+1);
+            		count.nhashmap.put(word, count.nhashmap.get(word)+1);
             		
                     vo.setNegative(vo.getNegative()+1);
             	}

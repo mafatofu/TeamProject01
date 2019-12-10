@@ -33,8 +33,7 @@ import kr.co.shineware.nlp.komoran.model.ScoredTag;
 import kr.co.shineware.nlp.komoran.modeler.model.IrregularNode;
 import kr.co.shineware.nlp.komoran.modeler.model.Observation;
 import kr.co.shineware.nlp.komoran.parser.KoreanUnitParser;
-import kr.co.shineware.nlp.komoran.test.CountPNTest;
-import kr.co.shineware.nlp.komoran.test.KeyWordList;
+import kr.co.shineware.nlp.komoran.test.CountPN;
 import kr.co.shineware.nlp.komoran.test.PNCountVO;
 import kr.co.shineware.nlp.komoran.util.KomoranCallable;
 import kr.co.shineware.util.common.file.FileUtil;
@@ -168,31 +167,35 @@ public class Komoran implements Cloneable {
                 
             }
             PNCountVO result = new PNCountVO();
+            CountPN count = new CountPN(keyword);
             result.setKeyword(keyword);
             
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
-                komoranResult.getTagPN(result);	                                  	
+                komoranResult.getTagPN(result, count);	                                  	
             }
+            Map<String, Integer> ps = count.phashmap;
+            Map<String, Integer> ng = count.nhashmap;
+            
+            Iterator<String> pi = FileUtil.sortByValue(ps).iterator();
+            Iterator<String> ni = FileUtil.sortByValue(ng).iterator();
+            
             System.out.println(result.toString());
-            bw.write(result.toString());
-            bw.newLine();
-            bw.write("============긍정=============");
-            bw.newLine();
-    		for (String key : CountPNTest.phashmap.keySet()) {
-    	          int v = CountPNTest.phashmap.get(key);
-    	          bw.write(key+":"+v);
-    	          bw.newLine();
-    	    }
-    		bw.write("============부정=============");
-    		bw.newLine();
-    	    for (String key : CountPNTest.nhashmap.keySet()) {
-    	          int vv = CountPNTest.nhashmap.get(key);
-    	          bw.write(key+":"+vv);
-    	          bw.newLine();
-    	    }             
-            bw.write("============완료=============");
-            bw.close();
+            
+            bw.write(result.toString()); bw.newLine();
+            bw.write("============긍정============="); bw.newLine();
+            while(pi.hasNext()) {
+            	  String key = (String)pi.next();
+				  bw.write(key + " : " + ps.get(key));
+				  bw.newLine();
+            }
+    		bw.write("============부정============="); bw.newLine();
+    		while(ni.hasNext()) {
+          	  String key = (String)ni.next();
+				  bw.write(key + " : " + ng.get(key));
+				  bw.newLine();
+            }             
+            bw.write("============완료============="); bw.close();
             executor.shutdown();
 
         } catch (Exception e) {

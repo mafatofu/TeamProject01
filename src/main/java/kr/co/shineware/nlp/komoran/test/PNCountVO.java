@@ -5,7 +5,7 @@ public class PNCountVO {
 	private int positive;
 	private int negative;
 	private int total;
-	
+
 	public String getKeyword() {
 		return keyword;
 	}
@@ -48,7 +48,7 @@ public class PNCountVO {
 	
 	@Override
 	public String toString() {
-		return getKeyword() + " ? " + getPositive() + " : " + getNegative();
+		return getKey() + " " + getPositive() + " : " + getNegative();
 	}
 
 }
