@@ -5,7 +5,7 @@ public class PNCountVO {
 	private int positive;
 	private int negative;
 	private int total;
-	
+
 	public String getKeyword() {
 		return keyword;
 	}
@@ -33,8 +33,7 @@ public class PNCountVO {
 	
 	public String getKey() {
 		switch (this.keyword) {
-		case "shipping":			
-			return "배송";
+		case "shipping": return "배송";
 		case "gift": return "사은품";
 		case "price": return "가격";
 		case "window": return "윈도우";
@@ -43,14 +42,13 @@ public class PNCountVO {
 		case "display": return "화면";
 		case "weight": return "무게";
 		case "speed": return "속도";
-		default:
-			return keyword;
+		default: return keyword;
 		}
 	}
 	
 	@Override
 	public String toString() {
-		return getKeyword() + " ? " + getPositive() + " : " + getNegative();
+		return getKey() + " " + getPositive() + " : " + getNegative();
 	}
 
 }

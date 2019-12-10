@@ -6,6 +6,40 @@ import java.util.List;
 
 public class KeyWordList {
 	
+<<<<<<< HEAD
+=======
+	public List<String> positiveList(String keyword){
+
+		switch (keyword) {
+		case "shipping": return shipping_positive;
+		case "gift": return gift_positive;
+		case "price": return price_positive;
+		case "window": return window_positive;
+		case "cost": return cost_positive;
+		case "perform": return perform_positive;
+		case "display": return display_positive;
+		case "weight": return weight_positive;
+		case "speed": return speed_positive;
+		default: return null;
+		}
+	}
+	
+	public List<String> negativeList(String keyword){
+		switch (keyword) {
+		case "shipping": return shipping_negative;
+		case "gift": return gift_negative;
+		case "price": return price_negative;
+		case "window": return window_negative;
+		case "cost": return cost_negative;
+		case "perform": return perform_negative;
+		case "display": return display_negative;
+		case "weight": return weight_negative;
+		case "speed": return speed_negative;
+		default: return null;
+		}
+	}
+	
+
    //배송키워드 긍정/부정 단어 리스트
    public static final List<String> shipping_positive = new ArrayList<String>
    (Arrays.asList("꼼꼼", "빠르", "안전하게", "바로", "예상", "무료", "하루", "당일", "빨리", "다음날"));
@@ -31,7 +65,7 @@ public class KeyWordList {
    public static final List<String>  window_positive = new ArrayList<String>
    (Arrays.asList("윈도우10","설치","깔리","탑재","기본으로","윈도우","정품","깔","깔리","활성화","셋팅","기본","문제없이"));
    public static final List<String>  window_negative = new ArrayList<String>
-   (Arrays.asList("욕먹을짓"));
+   (Arrays.asList("욕먹을 짓"));
    
    //가성비키워드 긍정/부정 단어 리스트
    public static final List<String>  cost_positive = new ArrayList<String>
