@@ -43,7 +43,6 @@ public class PNCountVO {
 		case "display": return "화면";
 		case "weight": return "무게";
 		case "speed": return "속도";
-		
 		default:
 			return keyword;
 		}
