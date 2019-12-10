@@ -49,7 +49,10 @@ public class KeyWordList {
    (Arrays.asList("크","시원","신세계","좋","크게","넓","와이드","깨끗","시원시원","큰"));
    public static final List<String>  display_negative = new ArrayList<String>(Arrays.asList());
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/mafatofu/TeamProject01.git
    //무게키워드 긍정/부정 단어 리스트
    public static final List<String>  weight_positive = new ArrayList<String>
    (Arrays.asList("가볍","가볍고","적당"));
