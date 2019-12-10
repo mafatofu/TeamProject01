@@ -22,6 +22,7 @@ public class KomoranPNTest {
 	       for (String key : CountPNTest.nhashmap.keySet()) {
 	          int vv = CountPNTest.nhashmap.get(key);
 	          System.out.println(key+":"+vv);
+	          //커밋테스트
 	       }
 	}
 }
