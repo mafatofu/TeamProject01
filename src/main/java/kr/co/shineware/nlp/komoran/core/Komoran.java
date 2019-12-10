@@ -33,6 +33,7 @@ import kr.co.shineware.nlp.komoran.model.ScoredTag;
 import kr.co.shineware.nlp.komoran.modeler.model.IrregularNode;
 import kr.co.shineware.nlp.komoran.modeler.model.Observation;
 import kr.co.shineware.nlp.komoran.parser.KoreanUnitParser;
+import kr.co.shineware.nlp.komoran.test.CountPNTest;
 import kr.co.shineware.nlp.komoran.test.KeyWordList;
 import kr.co.shineware.nlp.komoran.test.PNCountVO;
 import kr.co.shineware.nlp.komoran.util.KomoranCallable;
@@ -170,13 +171,26 @@ public class Komoran implements Cloneable {
             result.setKeyword(keyword);
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
-               //PlainText는 그냥 String을 반환함
-                komoranResult.getTagPN(result);
-	            System.out.println(result.toString());
-	            bw.write(result.toString());
-	            bw.newLine();             	
+                komoranResult.getTagPN(result);	                                  	
             }
-            bw.write("완료");
+            System.out.println(result.toString());
+            bw.write(result.toString());
+            bw.newLine();
+            bw.write("============긍정=============");
+            bw.newLine();
+    		for (String key : CountPNTest.phashmap.keySet()) {
+    	          int v = CountPNTest.phashmap.get(key);
+    	          bw.write(key+":"+v);
+    	          bw.newLine();
+    	    }
+    		bw.write("============부정=============");
+    		bw.newLine();
+    	    for (String key : CountPNTest.nhashmap.keySet()) {
+    	          int vv = CountPNTest.nhashmap.get(key);
+    	          bw.write(key+":"+vv);
+    	          bw.newLine();
+    	    }             
+            bw.write("============완료=============");
             bw.close();
             executor.shutdown();
 
