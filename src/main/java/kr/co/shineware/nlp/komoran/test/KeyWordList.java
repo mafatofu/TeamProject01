@@ -6,8 +6,7 @@ import java.util.List;
 
 public class KeyWordList {
 	
-<<<<<<< HEAD
-=======
+
 	public List<String> positiveList(String keyword){
 
 		switch (keyword) {
