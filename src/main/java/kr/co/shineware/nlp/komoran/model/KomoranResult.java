@@ -115,7 +115,7 @@ public class KomoranResult {
     		}
     	}
     	if(chk == 1) {
-    		System.out.println("긍정부정 시작");
+    		System.out.println("PN 시작");
     		for (LatticeNode latticeNode : resultNodeList) {
             	if (KeyWordList.shipping_positive.contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
             		System.out.println("긍정");
