@@ -108,6 +108,7 @@ public class KomoranResult {
     //원하는 단어의 긍정/부정 단어 리턴
     public void getTagPN(PNCountVO vo) {
     	StringBuilder result = new StringBuilder();
+    	KeyWordList kl = new KeyWordList();
     	
     	//CountPNTest의 긍정,부정 해시맵의 키값과 word가 일치할 시, 해당 키값의 value를 1 증가
         String word;
@@ -120,7 +121,7 @@ public class KomoranResult {
     	if(chk == 1) {
     		System.out.println("PN 시작");
     		for (LatticeNode latticeNode : resultNodeList) {
-            	if (KeyWordList.shipping_positive.contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
+            	if (kl.positiveList(vo.getKeyword()).contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
             		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
             		System.out.println(result);
             		vo.setPositive(vo.getPositive()+1);
@@ -128,7 +129,7 @@ public class KomoranResult {
             		word = parser.combine(latticeNode.getMorphTag().getMorph());
             		CountPNTest.phashmap.put(word, CountPNTest.phashmap.get(word)+1);
             	
-            	}else if (KeyWordList.shipping_negative.contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
+            	}else if (kl.negativeList(vo.getKeyword()).contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
             		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
             		System.out.println(result);
             		

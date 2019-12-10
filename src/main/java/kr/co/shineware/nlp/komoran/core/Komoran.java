@@ -169,6 +169,7 @@ public class Komoran implements Cloneable {
             }
             PNCountVO result = new PNCountVO();
             result.setKeyword(keyword);
+            
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
                 komoranResult.getTagPN(result);	                                  	
