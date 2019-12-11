@@ -11,8 +11,13 @@ public class KomoranPNCount {
 
 		String keyword = "shipping";		
 
-		String inputFilename = "resources/input/" + product + ".txt";
-		String outputFilename = "resources/output/rank/" + product + "/" + keyword + ".txt";
+//		String inputFilename = "resources/input/" + product + ".txt";
+//		String outputFilename = "resources/output/PNCount/" + product + "/" + keyword + ".txt";
+		
+		String inputFilename = "resources/output/sentence/result_" + product + ".txt";
+		String outputFilename = "resources/output/PNCount/" + product + "/sentence_" + keyword + ".txt";
+		
+		//komoran.analyzeTextFile(inputFilename, outputFilename, 1);
 		komoran.analyzeTextPN(inputFilename, outputFilename, 1, keyword);
 	}
 }

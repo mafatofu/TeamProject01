@@ -106,39 +106,49 @@ public class KomoranResult {
     }
     
     //원하는 단어의 긍정/부정 단어 리턴
-    public void getTagPN(PNCountVO vo, CountPN count) {
+    public String getTagPN(PNCountVO vo, CountPN count) {
     	StringBuilder result = new StringBuilder();
+    	result.append("a");
     	KeyWordList kl = new KeyWordList();
     	//CountPNTest의 긍정,부정 해시맵의 키값과 word가 일치할 시, 해당 키값의 value를 1 증가
-        String word;
-    	int chk = 0;
+        String word = null;
+    	int chk = 0; // keyword 유무 확인
+    	int tag = 0; // tag 유무 확인
     	for (LatticeNode latticeNode : resultNodeList) {
     		if(parser.combine(latticeNode.getMorphTag().getMorph()).equals(vo.getKey())) {
     			chk = 1;
     		}
     	}
     	if(chk == 1) {
-    		System.out.println("PN 시작");
     		for (LatticeNode latticeNode : resultNodeList) {
             	if (kl.positiveList(vo.getKeyword()).contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
-            		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
-            		System.out.println(result);
-            		vo.setPositive(vo.getPositive()+1);
-            		
             		word = parser.combine(latticeNode.getMorphTag().getMorph());
             		count.phashmap.put(word, count.phashmap.get(word)+1);
+            		vo.setPositive(vo.getPositive()+1);
+            		tag = 1;
             	
             	}else if (kl.negativeList(vo.getKeyword()).contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
-            		result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append("/").append(latticeNode.getTag()).append(" ");
-            		System.out.println(result);
-            		
             		word = parser.combine(latticeNode.getMorphTag().getMorph());
             		count.nhashmap.put(word, count.nhashmap.get(word)+1);
-            		
                     vo.setNegative(vo.getNegative()+1);
+                    tag = 1;
             	}
-            }
+    		}
     	}
+    	if(tag == 1 ) {
+    		result.append(word).append("\t");
+    		for (LatticeNode latticeNode : resultNodeList) {
+                if (latticeNode.getMorphTag().getTag().equals(SYMBOL.END)) {
+                    continue;
+                }
+                if (latticeNode.getTag().equals(SYMBOL.NA)) {
+                    result.append(latticeNode.getMorphTag().getMorph()).append(" ");
+                } else {
+                    result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append(" ");
+                }
+            }
+    	}  
+    	return result.toString().trim();
     } 
     
     //원하는 태그별로 값 출력
