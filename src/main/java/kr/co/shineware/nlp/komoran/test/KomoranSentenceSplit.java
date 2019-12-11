@@ -11,11 +11,11 @@ import java.nio.charset.StandardCharsets;
 import sun.swing.text.CountingPrintable;
 
 //문장 나누기 클래스
-public class SentenceTest {
+public class KomoranSentenceSplit {
 	public static void main(String[] args) {
 		String product = "1.LG전자 울트라PC 15U590-GA56K";
 		String inputFilename = "resources/input/" + product + ".txt";
-		String outputFilename = "resources/output/sentence/result_222" + product + ".txt";
+		String outputFilename = "resources/output/sentence/result_" + product + ".txt";
 		
 		//파일 입출력
 		try {
