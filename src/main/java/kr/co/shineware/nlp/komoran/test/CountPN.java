@@ -2,7 +2,7 @@ package kr.co.shineware.nlp.komoran.test;
 
 import java.util.HashMap;
 import java.util.List;
-
+//긍정/부정 단어의 갯수를 셈 
 public class CountPN {
 	KeyWordList klist = new KeyWordList();
 	List<String> plist;
