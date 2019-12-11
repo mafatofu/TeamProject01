@@ -9,7 +9,7 @@ public class KomoranPNCount {
 		
 		String product = "1.LG전자 울트라PC 15U590-GA56K";
 
-		String keyword = "shipping";		
+		String keyword = "weight";		
 
 //		String inputFilename = "resources/input/" + product + ".txt";
 //		String outputFilename = "resources/output/PNCount/" + product + "/" + keyword + ".txt";
