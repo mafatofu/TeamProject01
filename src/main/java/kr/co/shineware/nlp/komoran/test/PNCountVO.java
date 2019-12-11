@@ -1,5 +1,6 @@
 package kr.co.shineware.nlp.komoran.test;
 
+
 public class PNCountVO {
 	private String keyword;
 	private int positive;

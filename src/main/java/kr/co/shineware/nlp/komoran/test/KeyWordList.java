@@ -4,9 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+//언급량이 많은 키워드들에 대한 긍정/부정 단어 리스트.
+
 public class KeyWordList {
 	
-
+	//특정 키워드가 들어오면, 그 키워드에 대한 긍정/부정 단어 리스트를 돌려준다.
 	public List<String> positiveList(String keyword){
 
 		switch (keyword) {
