@@ -41,7 +41,12 @@ public class PNCountVO {
 		case "cost": return "가성비";
 		case "perform": return "성능";
 		case "display": return "화면";
+<<<<<<< HEAD
 		case "weight": return "무게";
+=======
+		case "weight": return ""
+				+ "";
+>>>>>>> branch 'master' of https://github.com/mafatofu/TeamProject01.git
 		case "speed": return "속도";
 		default: return keyword;
 		}
