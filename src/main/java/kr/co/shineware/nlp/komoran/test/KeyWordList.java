@@ -8,7 +8,11 @@ import java.util.List;
 
 public class KeyWordList {
 	
+<<<<<<< HEAD
 	//특정 키워드가 들어오면, 그 키워드에 대한 긍정/부정 단어 리스트를 돌려준다.
+=======
+
+>>>>>>> branch 'master' of https://github.com/mafatofu/TeamProject01.git
 	public List<String> positiveList(String keyword){
 
 		switch (keyword) {
@@ -50,14 +54,14 @@ public class KeyWordList {
    //사은품키워드 긍정/부정 단어 리스트
    public static final List<String>  gift_positive = new ArrayList<String>
    (Arrays.asList("많이","챙기","감사","저렴","잘","모두","빠짐없이","이것저것","풍년","마음","그냥","푸짐","쓰","빵빵",
-            "필요","특별","적당","특별히","좋","젤로","만족스럽","챙겨주","많","그럭저럭","만족스럽",
+            "필요","특별","특별히","좋","젤로","만족스럽","챙겨주","많","그럭저럭","만족스럽",
             "꼭","필요","다","받"));
    public static final List<String>  gift_negative = new ArrayList<String>
-   (Arrays.asList("누락","없","복잡","까다롭","밖에","싸구려","빠지","어쩌","곰팡이","좀 없이"));
+   (Arrays.asList("누락","없","복잡","까다롭","밖에","싸구려","빠지","어쩌","곰팡이","좀"));
    
    //가격키워드 긍정/부정 단어 리스트
    public static final List<String>  price_positive = new ArrayList<String>
-   (Arrays.asList("좋","대비","가성비","착한가격","이만한","저렴","만족","싸게","최저가","행사","빅스마일데이",
+   (Arrays.asList("좋","대비","가성비","착하","이만한","저렴","만족","싸게","최저가","행사","빅스마일데이",
          "착하","훌륭","득템","비교","마음","굿"));
    public static final List<String>  price_negative = new ArrayList<String>
    (Arrays.asList("비싸"));
@@ -89,7 +93,7 @@ public class KeyWordList {
    public static final List<String>  weight_positive = new ArrayList<String>
    (Arrays.asList("가볍","가볍고","적당"));
    public static final List<String>  weight_negative = new ArrayList<String>
-   (Arrays.asList("가볍지","무겁","빼고","약간","더"));
+   (Arrays.asList("가볍지","무겁","빼고","약간"," 나가"));
 
    //속도키워드 긍정/부정 단어 리스트
    public static final List<String>  speed_positive = new ArrayList<String>

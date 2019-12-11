@@ -172,7 +172,15 @@ public class Komoran implements Cloneable {
             
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
-                komoranResult.getTagPN(result, count);	                                  	
+                String rs = komoranResult.getTagPN(result, count);
+                if(rs != "a") {
+	                bw.write(rs);	
+	                bw.newLine();
+                }else if(rs == "a") {
+                	bw.write("띄어쓰기해야돼!!!!");
+                	bw.newLine();
+                }
+                
             }
             Map<String, Integer> ps = count.phashmap;
             Map<String, Integer> ng = count.nhashmap;
