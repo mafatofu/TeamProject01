@@ -8,11 +8,7 @@ import java.util.List;
 
 public class KeyWordList {
 	
-<<<<<<< HEAD
 	//특정 키워드가 들어오면, 그 키워드에 대한 긍정/부정 단어 리스트를 돌려준다.
-=======
-
->>>>>>> branch 'master' of https://github.com/mafatofu/TeamProject01.git
 	public List<String> positiveList(String keyword){
 
 		switch (keyword) {
@@ -68,36 +64,35 @@ public class KeyWordList {
    
    //윈도우키워드 긍정/부정 단어 리스트
    public static final List<String>  window_positive = new ArrayList<String>
-   (Arrays.asList("윈도우10","설치","깔리","탑재","기본으로","윈도우","정품","깔","깔리","활성화","셋팅","기본","문제없이"));
+   (Arrays.asList("설치","깔리","탑재","기본으로","정품","깔","깔리","활성화","셋팅","기본","문제없이"));
    public static final List<String>  window_negative = new ArrayList<String>
    (Arrays.asList("욕먹을 짓"));
    
    //가성비키워드 긍정/부정 단어 리스트
    public static final List<String>  cost_positive = new ArrayList<String>
-   (Arrays.asList("가성비로 유명한","가성비 노트북","가성비 최고","가성비 고려","가성비 좋습니다","착한가격","착한 가격",
-         "탁월","추천","훌륭","괜찮","금액","대비", "가격"));
+   (Arrays.asList("최고","고려","좋","탁월","추천","훌륭","괜찮","대비","만족"));
    public static final List<String>  cost_negative = new ArrayList<String>();
    
    //성능키워드 긍정/부정 단어 리스트
    public static final List<String>  perform_positive = new ArrayList<String>
-   (Arrays.asList("좋","나쁘지","필요한","좋은것","훨씬","나은","빠릿빠릿","생각한대로","좋고","대만족","충분","매우","탁월","만족"));
+   (Arrays.asList("좋","성능도","나쁘","빠릿빠릿","필요","훨씬","대만족","충분","매우","탁월","만족"));
    public static final List<String>  perform_negative = new ArrayList<String>
-   (Arrays.asList("성능차이"));
+   (Arrays.asList("차이"));
 
    //화면키워드 긍정/부정 단어 리스트
    public static final List<String>  display_positive = new ArrayList<String>
-   (Arrays.asList("크","시원","신세계","좋","크게","넓","와이드","깨끗","시원시원","큰"));
+   (Arrays.asList("크","시원","신세계","좋","크게","넓","와이드","깨끗","시원시원"));
    public static final List<String>  display_negative = new ArrayList<String>(Arrays.asList());
 
    //무게키워드 긍정/부정 단어 리스트
    public static final List<String>  weight_positive = new ArrayList<String>
    (Arrays.asList("가볍","가볍고","적당"));
    public static final List<String>  weight_negative = new ArrayList<String>
-   (Arrays.asList("가볍지","무겁","빼고","약간"," 나가"));
+   (Arrays.asList("무겁","빼","약간"," 나가", "무게감"));
 
    //속도키워드 긍정/부정 단어 리스트
    public static final List<String>  speed_positive = new ArrayList<String>
-   (Arrays.asList("신세계", "감동", "빠르","상상","속도에","빠르고","환상적","감탄"));
+   (Arrays.asList("신세계", "감동", "빠르","상상","속도에","환상적","감탄","엄청"));
    public static final List<String>  speed_negative = new ArrayList<String>
    (Arrays.asList());
 }
