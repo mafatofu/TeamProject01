@@ -173,12 +173,9 @@ public class Komoran implements Cloneable {
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
                 String rs = komoranResult.getTagPN(result, count);
-                if(rs != "a") {
+                if(rs.length() > 1) {
 	                bw.write(rs);	
 	                bw.newLine();
-                }else if(rs == "a") {
-                	bw.write("띄어쓰기해야돼!!!!");
-                	bw.newLine();
                 }
                 
             }
