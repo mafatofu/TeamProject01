@@ -120,6 +120,7 @@ public class KomoranResult {
     			chk = 1;
     		}
     	}
+    	//긍부정 단어 카운트
     	if(chk == 1) {
     		for (LatticeNode latticeNode : resultNodeList) {
             	if (kl.positiveList(vo.getKeyword()).contains(parser.combine(latticeNode.getMorphTag().getMorph()))) {
@@ -138,21 +139,42 @@ public class KomoranResult {
             	}
     		}
     	}
+    	//result에 append하기.ArrayList<Integer> list = new ArrayList<Integer>();
     	if(tag == 1 ) {
-    		result.append(keylist.toString()).append("\t");
-    		for (LatticeNode latticeNode : resultNodeList) {
-                if (latticeNode.getMorphTag().getTag().equals(SYMBOL.END)) {
-                    continue;
-                }
-                if (latticeNode.getTag().equals(SYMBOL.NA)) {
-                    result.append(latticeNode.getMorphTag().getMorph()).append(" ");
-                } else {
-                    result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append(" ");
-                }
-            }
-    	}  
+    		
+	    	Iterator<String> itr = keylist.iterator();
+			while( itr.hasNext() ){
+				 //System.out.println(itr.next());
+				 result.append(itr.next()).append("\t");
+				for (LatticeNode latticeNode : resultNodeList) {
+					if (latticeNode.getMorphTag().getTag().equals(SYMBOL.END)) {
+						continue;
+					}
+		            if (latticeNode.getTag().equals(SYMBOL.NA)) {
+		            	result.append(latticeNode.getMorphTag().getMorph()).append(" ");
+		            } else {
+		            	result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append(" ");
+		            }
+		        }
+				result.append("\n");
+			}
+    	}
+//    	if(tag == 1 ) {
+//    		result.append(keylist.toString()).append("\t");
+//    		for (LatticeNode latticeNode : resultNodeList) {
+//                if (latticeNode.getMorphTag().getTag().equals(SYMBOL.END)) {
+//                    continue;
+//                }
+//                if (latticeNode.getTag().equals(SYMBOL.NA)) {
+//                    result.append(latticeNode.getMorphTag().getMorph()).append(" ");
+//                } else {
+//                    result.append(parser.combine(latticeNode.getMorphTag().getMorph())).append(" ");
+//                }
+//            }
+//    	}  
+    	 
     	return result.toString().trim();
-    } 
+    }
     
     //원하는 태그별로 값 출력
     public String getPlainTextTags(Collection<String> targetPosCollection) {

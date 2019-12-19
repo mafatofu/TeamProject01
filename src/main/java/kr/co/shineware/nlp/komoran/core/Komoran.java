@@ -152,8 +152,8 @@ public class Komoran implements Cloneable {
         System.out.println("분석완료");
     }
     
-    //긍정/부정 키워드 카운트
-    public void analyzeTextPN(String inputFilename, String outputFilename, int thread, String keyword) {
+    //긍정/부정 키워드 카운트  [키워드 별 긍부정 단어 퍼센트 그래프 용]
+    public void analyzeTextPNCount(String inputFilename, String outputFilename, int thread, String keyword) {
         try {
             List<String> lines = FileUtil.load2List(inputFilename);
             BufferedWriter bw = new BufferedWriter(
@@ -169,7 +169,56 @@ public class Komoran implements Cloneable {
             PNCountVO result = new PNCountVO();
             CountPN count = new CountPN(keyword);
             result.setKeyword(keyword);
+            for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
+                KomoranResult komoranResult = komoranResultFuture.get();
+                komoranResult.getTagPN(result, count);                
+            }
+            Map<String, Integer> ps = count.phashmap;
+            Map<String, Integer> ng = count.nhashmap;
             
+            Iterator<String> pi = FileUtil.sortByValue(ps).iterator();
+            Iterator<String> ni = FileUtil.sortByValue(ng).iterator();
+          
+            bw.write("PN,text,frequency"); bw.newLine();
+           // bw.write("============긍정============="); bw.newLine();
+            while(pi.hasNext()) {
+            	  String key = (String)pi.next();
+				  bw.write("positive,"+key + "," + ps.get(key));
+				  bw.newLine();
+            }
+    		//bw.write("============부정============="); bw.newLine();
+    		while(ni.hasNext()) {
+          	  String key = (String)ni.next();
+				  bw.write("negative," +key + "," + ng.get(key));
+				  bw.newLine();
+            }             
+            //bw.write("============완료=============");
+    		bw.close();
+            executor.shutdown();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        System.out.println("분석완료");
+    }
+    
+    public void analyzeTextPNReview(String inputFilename, String outputFilename, int thread, String keyword) {
+        try {
+            List<String> lines = FileUtil.load2List(inputFilename);
+            BufferedWriter bw = new BufferedWriter(
+                    (new OutputStreamWriter(new FileOutputStream(outputFilename), StandardCharsets.UTF_8)));
+            List<Future<KomoranResult>> komoranResultList = new ArrayList<>();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(thread);
+            
+            for (String line : lines) {
+                KomoranCallable komoranCallable = new KomoranCallable(this, line);
+                komoranResultList.add(executor.submit(komoranCallable));
+                
+            }
+            PNCountVO result = new PNCountVO();
+            CountPN count = new CountPN(keyword);
+            result.setKeyword(keyword);
+            bw.write("PNword\treview\n");
             for (Future<KomoranResult> komoranResultFuture : komoranResultList) {
                 KomoranResult komoranResult = komoranResultFuture.get();
                 String rs = komoranResult.getTagPN(result, count);
@@ -179,28 +228,9 @@ public class Komoran implements Cloneable {
                 }
                 
             }
-            Map<String, Integer> ps = count.phashmap;
-            Map<String, Integer> ng = count.nhashmap;
-            
-            Iterator<String> pi = FileUtil.sortByValue(ps).iterator();
-            Iterator<String> ni = FileUtil.sortByValue(ng).iterator();
-            
             System.out.println(result.toString());
-            
-            bw.write(result.toString()); bw.newLine();
-            bw.write("============긍정============="); bw.newLine();
-            while(pi.hasNext()) {
-            	  String key = (String)pi.next();
-				  bw.write(key + " : " + ps.get(key));
-				  bw.newLine();
-            }
-    		bw.write("============부정============="); bw.newLine();
-    		while(ni.hasNext()) {
-          	  String key = (String)ni.next();
-				  bw.write(key + " : " + ng.get(key));
-				  bw.newLine();
-            }             
-            bw.write("============완료============="); bw.close();
+           // bw.write(result.toString()); bw.newLine();
+    		bw.close();
             executor.shutdown();
 
         } catch (Exception e) {

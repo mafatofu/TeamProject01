@@ -13,12 +13,12 @@ public class KomoranPNCount {
 
 //		String inputFilename = "resources/input/" + product + ".txt";
 //		String outputFilename = "resources/output/PNCount/" + product + "/" + keyword + ".txt";
-		
-		String inputFilename = "resources/output/sentence/result_" + product + ".txt";
-		String outputFilename = "resources/output/PNCount/" + product + "/sentence_" + keyword + ".txt";
+		//문장별로 자른 것을 가지고 분석하기
+		String inputFilename = "resources/output/0.sentence/sentence_" + product + ".txt";
+		String outputFilename = "resources/output/2.PNCount/" + product + "/PNCount_" + keyword + ".csv";
 		
 		//komoran.analyzeTextFile(inputFilename, outputFilename, 1);
-		komoran.analyzeTextPN(inputFilename, outputFilename, 1, keyword);
+		komoran.analyzeTextPNCount(inputFilename, outputFilename, 1, keyword);
 	}
 }
 
