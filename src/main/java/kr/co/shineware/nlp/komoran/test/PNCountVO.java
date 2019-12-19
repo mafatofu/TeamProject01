@@ -41,8 +41,7 @@ public class PNCountVO {
 		case "cost": return "가성비";
 		case "perform": return "성능";
 		case "display": return "화면";
-		case "weight": return ""
-				+ "";
+		case "weight": return "무게";
 		case "speed": return "속도";
 		default: return keyword;
 		}
