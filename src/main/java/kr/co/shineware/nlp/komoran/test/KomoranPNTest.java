@@ -12,6 +12,7 @@ public class KomoranPNTest {
 		String inputFilename = "resources/output/sentence/" + product + ".txt";
 		String outputFilename = "resources/output/rank/test/" + product + "/" + keyword + ".txt";
 		komoran.analyzeTextPN(inputFilename, outputFilename, 1, keyword);
+		
 	}
 }
 
