@@ -15,7 +15,7 @@ public class KomoranPNCount {
 //		String outputFilename = "resources/output/PNCount/" + product + "/" + keyword + ".txt";
 		//문장별로 자른 것을 가지고 분석하기
 		String inputFilename = "resources/output/0.sentence/sentence_" + product + ".txt";
-		String outputFilename = "resources/output/2.PNCount/" + product + "/PNCount_" + keyword + ".csv";
+		String outputFilename = "resources/output/2.PNCount/" + product + "/" + keyword + ".csv";
 		
 		//komoran.analyzeTextFile(inputFilename, outputFilename, 1);
 		komoran.analyzeTextPNCount(inputFilename, outputFilename, 1, keyword);
