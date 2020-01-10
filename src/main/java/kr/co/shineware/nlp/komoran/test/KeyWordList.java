@@ -95,4 +95,10 @@ public class KeyWordList {
    (Arrays.asList("신세계", "감동", "빠르","상상","속도에","환상적","감탄","엄청"));
    public static final List<String>  speed_negative = new ArrayList<String>
    (Arrays.asList());
+   
+   /*--------------6.LG전자 그램 17 17ZD990-VX50K(화면)--------------*/
+   public static final List<String> display_positive6 = new ArrayList<String>
+   (Arrays.asList("훨씬", "크", "큼직큼직"));
+   public static final List<String> display_negative6 = new ArrayList<String>
+   (Arrays.asList(""));
 }

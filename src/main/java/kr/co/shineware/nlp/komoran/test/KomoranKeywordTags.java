@@ -8,8 +8,8 @@ public class KomoranKeywordTags {
 		Komoran komoran = new Komoran("models_light");
 		komoran.setFWDic("user_data/fwd.user");		komoran.setUserDic("user_data/dic.user");
 		
-		String keyword = "비싸";
-		String product = "1.LG전자 울트라PC 15U590-GA56K";
+		String keyword = "화면";
+		String product = "6.LG전자 그램 17 17ZD990-VX50K";
 		String inputFilename = "resources/input/" + product + ".txt";
 		String outputFilename = "resources/output/result_2222" + product + "("+keyword+").txt";
 		

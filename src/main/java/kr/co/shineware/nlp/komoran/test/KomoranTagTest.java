@@ -10,10 +10,10 @@ public class KomoranTagTest {
 		Komoran komoran = new Komoran("models_light");
 		komoran.setFWDic("user_data/fwd.user");		komoran.setUserDic("user_data/dic.user");
 		
-		String keyword = "속도";
-		String product = "result_1.LG전자 울트라PC 15U590-GA56K";
-		String inputFilename = "resources/output/sentence/" + product + ".txt";
-		String outputFilename = "resources/output/result_2222" + product + "("+keyword+").txt";
+		String keyword = "배송";
+		String product = "6.LG전자 그램 17 17ZD990-VX50K";
+		String inputFilename = "resources/output/0.sentence/sentence_" + product + ".txt";
+		String outputFilename = "resources/output/TagTest/"+product+"/TagTest_" + product + "("+keyword+").txt";
 		
 		//komoran.analyzeTextFileMorph(inputFilename, outputFilename, 1);
 		//komoran.analyzeTextFileNouns(inputFilename, outputFilename, 1);

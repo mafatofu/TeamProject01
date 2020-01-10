@@ -7,10 +7,10 @@ public class KomoranPNCount {
 		Komoran komoran = new Komoran("models_light");
 		komoran.setUserDic("user_data/dic.user");
 		
-		String product = "1.LG전자 울트라PC 15U590-GA56K";
+		String product = "6.LG전자 그램 17 17ZD990-VX50K";
 
-		String keyword = "weight";		
-
+		String keyword = "display";
+		
 //		String inputFilename = "resources/input/" + product + ".txt";
 //		String outputFilename = "resources/output/PNCount/" + product + "/" + keyword + ".txt";
 		//문장별로 자른 것을 가지고 분석하기
