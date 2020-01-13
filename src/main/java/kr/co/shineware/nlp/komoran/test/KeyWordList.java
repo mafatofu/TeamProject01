@@ -21,6 +21,11 @@ public class KeyWordList {
 		case "display": return display_positive;
 		case "weight": return weight_positive;
 		case "speed": return speed_positive;
+		case "package": return package_positive;
+		case "concern": return concern_positive;
+		case "product": return product_positive;
+		case "upgrade": return upgrade_positive;
+		case "design": return design_positive;
 		default: return null;
 		}
 	}
@@ -36,24 +41,31 @@ public class KeyWordList {
 		case "display": return display_negative;
 		case "weight": return weight_negative;
 		case "speed": return speed_negative;
+		case "package": return package_negative;
+		case "concern": return concern_negative;
+		case "product": return product_negative;
+		case "upgrade": return upgrade_negative;
+		case "design": return design_negative;
 		default: return null;
 		}
 	}
 	
+	
+	
    
    //배송키워드 긍정/부정 단어 리스트
    public static final List<String> shipping_positive = new ArrayList<String>
-   (Arrays.asList("꼼꼼", "빠르", "안전 하게", "바로", "예상", "무료", "하루", "당일", "빨리", "다음날"));
+   (Arrays.asList("꼼꼼", "빠르", "안전 하게", "바로", "예상", "무료", "하루", "당일", "빨리", "다음날","정확"));
    public static final List<String> shipping_negative = new ArrayList<String>
-   (Arrays.asList("늦", "아쉽", "오래", "느리", "지연", "지연이", "걸리","파손", "직원", "만"));
+   (Arrays.asList("늦", "아쉽", "오래", "느리", "지연", "지연이", "걸리","파손", "직원", "만","찢어지","버려두"));
    
    //사은품키워드 긍정/부정 단어 리스트
    public static final List<String>  gift_positive = new ArrayList<String>
    (Arrays.asList("많이","챙기","감사","저렴","잘","모두","빠짐없이","이것저것","풍년","마음","그냥","푸짐","쓰","빵빵",
             "필요","특별","특별히","좋","젤로","만족스럽","챙겨주","많","그럭저럭","만족스럽",
-            "꼭","필요","다","받"));
+            "꼭","필요","다","받","만족"));
    public static final List<String>  gift_negative = new ArrayList<String>
-   (Arrays.asList("누락","없","복잡","까다롭","밖에","싸구려","빠지","어쩌","곰팡이","좀"));
+   (Arrays.asList("누락","없","복잡","까다롭","밖에","싸구려","빠지","어쩌","곰팡이","좀","어렵","불편","아쉽"));
    
    //가격키워드 긍정/부정 단어 리스트
    public static final List<String>  price_positive = new ArrayList<String>
@@ -81,7 +93,7 @@ public class KeyWordList {
 
    //화면키워드 긍정/부정 단어 리스트
    public static final List<String>  display_positive = new ArrayList<String>
-   (Arrays.asList("크","시원","신세계","좋","크게","넓","와이드","깨끗","시원시원"));
+   (Arrays.asList("크","시원","신세계","좋","크게","넓","와이드","깨끗","시원시원","만족","시원","훨씬","17인치"));
    public static final List<String>  display_negative = new ArrayList<String>(Arrays.asList());
 
    //무게키워드 긍정/부정 단어 리스트
@@ -96,9 +108,33 @@ public class KeyWordList {
    public static final List<String>  speed_negative = new ArrayList<String>
    (Arrays.asList());
    
-   /*--------------6.LG전자 그램 17 17ZD990-VX50K(화면)--------------*/
-   public static final List<String> display_positive6 = new ArrayList<String>
-   (Arrays.asList("훨씬", "크", "큼직큼직"));
-   public static final List<String> display_negative6 = new ArrayList<String>
-   (Arrays.asList(""));
+   //포장 키워드 긍정/부정 단어 리스트
+   public static final List<String>  package_positive = new ArrayList<String>
+   (Arrays.asList("꼼꼼","빵빵","튼튼","잘","뽁뽁이","깔끔","포장상태","안전"));
+   public static final List<String>  package_negative = new ArrayList<String>
+   (Arrays.asList("아쉽"));
+   
+   //고민 키워드 긍정/부정 단어 리스트
+   public static final List<String>  concern_positive = new ArrayList<String>
+   (Arrays.asList("좋","만족","추천","잘","크"));
+   public static final List<String>  concern_negative = new ArrayList<String>
+   (Arrays.asList("비싸"));
+   
+   public static final List<String>  product_positive = new ArrayList<String>
+   (Arrays.asList("좋","만족","문제 없이","고성능","가볍","문제없"));
+   public static final List<String>  product_negative = new ArrayList<String>
+   (Arrays.asList("비싸"));
+   
+   //업그레이드 키워드 긍정/부정 단어 리스트
+   public static final List<String>  upgrade_positive = new ArrayList<String>
+   (Arrays.asList("좋","만족","잘","저렴","추천","싸게","무료","공짜"));
+   public static final List<String>  upgrade_negative = new ArrayList<String>
+   (Arrays.asList("화나","기스","흠집","실수","쓰레기","틈","섭"));
+   
+   //디자인 키워드 긍정/부정 단어 리스트
+   public static final List<String>  design_positive = new ArrayList<String>
+   (Arrays.asList("훌륭","좋","이쁘","예쁘","깔끔","간결","고급스럽",
+		   "굳","심플","세렴","잘빠지","만점","적당","고급","합격"));
+   public static final List<String>  design_negative = new ArrayList<String>
+   (Arrays.asList("투박","착시"));
 }
