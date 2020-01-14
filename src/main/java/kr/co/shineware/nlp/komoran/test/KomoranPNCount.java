@@ -21,4 +21,3 @@ public class KomoranPNCount {
 		komoran.analyzeTextPNCount(inputFilename, outputFilename, 1, keyword);
 	}
 }
-
