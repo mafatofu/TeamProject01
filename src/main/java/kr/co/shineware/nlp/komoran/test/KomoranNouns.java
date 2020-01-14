@@ -11,7 +11,7 @@ public class KomoranNouns {
 		//String product = "1.LG전자 울트라PC 15U590-GA56K";
 		//String inputFilename = "resources/input/" + product + ".txt";
 		//String outputFilename = "resources/output/result_" + product + ".txt";
-		String product = "1.LG전자 울트라PC 15U590-GA56K";
+		String product = "6.LG전자 그램 17 17ZD990-VX50K";
 		String inputFilename = "resources/output/0.sentence/sentence_" + product + ".txt";
 		String outputFilename = "resources/output/1.nouns/nouns_" + product + ".txt";
 		//komoran.analyzeTextFileMorph(inputFilename, outputFilename, 1);
